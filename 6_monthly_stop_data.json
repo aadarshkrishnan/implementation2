@@ -3,3660 +3,3660 @@
         "Stop_ID": "530",
         "CTA Stop Name": "Chicago & Pulaski",
         "Routes": "66",
-        "LONGITUDE": "-87.726211",
-        "LATITUDE": "41.89529",
+        "start_lng": "-87.726211",
+        "start_lat": "41.89529",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "548",
         "CTA Stop Name": "Chicago & Western",
         "Routes": "66",
-        "LONGITUDE": "-87.687019",
-        "LATITUDE": "41.895662",
+        "start_lng": "-87.687019",
+        "start_lat": "41.895662",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "556",
         "CTA Stop Name": "Chicago & Ashland",
         "Routes": "66",
-        "LONGITUDE": "-87.667474",
-        "LATITUDE": "41.895993",
+        "start_lng": "-87.667474",
+        "start_lat": "41.895993",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "599",
         "CTA Stop Name": "Chicago & Michigan",
         "Routes": "66",
-        "LONGITUDE": "-87.624493",
-        "LATITUDE": "41.8968",
+        "start_lng": "-87.624493",
+        "start_lat": "41.8968",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "606",
         "CTA Stop Name": "Chicago & Franklin (Brown line)",
         "Routes": "66",
-        "LONGITUDE": "-87.635534",
-        "LATITUDE": "41.896669",
+        "start_lng": "-87.635534",
+        "start_lat": "41.896669",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "617",
         "CTA Stop Name": "Chicago Blue Line Station",
         "Routes": "66",
-        "LONGITUDE": "-87.655108",
-        "LATITUDE": "41.896353",
+        "start_lng": "-87.655108",
+        "start_lat": "41.896353",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "648",
         "CTA Stop Name": "Chicago & Pulaski",
         "Routes": "66",
-        "LONGITUDE": "-87.725901",
-        "LATITUDE": "41.895445",
+        "start_lng": "-87.725901",
+        "start_lat": "41.895445",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "672",
         "CTA Stop Name": "Grand & Oak Park",
         "Routes": "65,74",
-        "LONGITUDE": "-87.795414",
-        "LATITUDE": "41.923518",
+        "start_lng": "-87.795414",
+        "start_lat": "41.923518",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "141797.42857142858",
-        "HeatValue": "0.13391277810914048"
+        "heat": "0.13391277810914048"
     },
     {
         "Stop_ID": "738",
         "CTA Stop Name": "Grand & Halsted/Milwaukee (Blue Line)",
         "Routes": "65",
-        "LONGITUDE": "-87.647777",
-        "LATITUDE": "41.891115",
+        "start_lng": "-87.647777",
+        "start_lat": "41.891115",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25766.428571428572",
-        "HeatValue": "0.02433368550271426"
+        "heat": "0.02433368550271426"
     },
     {
         "Stop_ID": "1023",
         "CTA Stop Name": "Sheridan & Pratt",
         "Routes": "147,151,155",
-        "LONGITUDE": "-87.660998",
-        "LATITUDE": "42.005364",
+        "start_lng": "-87.660998",
+        "start_lat": "42.005364",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "53406.70983419097",
-        "HeatValue": "0.05043702805909927"
+        "heat": "0.05043702805909927"
     },
     {
         "Stop_ID": "1027",
         "CTA Stop Name": "Sheridan & Loyola (Red Line)",
         "Routes": "147,151,155",
-        "LONGITUDE": "-87.66086",
-        "LATITUDE": "42.001423",
+        "start_lng": "-87.66086",
+        "start_lat": "42.001423",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "53406.70983419097",
-        "HeatValue": "0.05043702805909927"
+        "heat": "0.05043702805909927"
     },
     {
         "Stop_ID": "1036",
         "CTA Stop Name": "Sheridan & Ardmore",
         "Routes": "136,147,151",
-        "LONGITUDE": "-87.655379",
-        "LATITUDE": "41.987459",
+        "start_lng": "-87.655379",
+        "start_lat": "41.987459",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "22928.076500857635",
-        "HeatValue": "0.021653160088034265"
+        "heat": "0.021653160088034265"
     },
     {
         "Stop_ID": "1038",
         "CTA Stop Name": "Sheridan & Bryn Mawr",
         "Routes": "136,147,151",
-        "LONGITUDE": "-87.655246",
-        "LATITUDE": "41.983481",
+        "start_lng": "-87.655246",
+        "start_lat": "41.983481",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "22928.076500857635",
-        "HeatValue": "0.021653160088034265"
+        "heat": "0.021653160088034265"
     },
     {
         "Stop_ID": "1061",
         "CTA Stop Name": "Lake Shore & Grace",
         "Routes": "135,146,151,152",
-        "LONGITUDE": "-87.645114",
-        "LATITUDE": "41.952058",
+        "start_lng": "-87.645114",
+        "start_lat": "41.952058",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "77170.34922813036",
-        "HeatValue": "0.07287928953934336"
+        "heat": "0.07287928953934336"
     },
     {
         "Stop_ID": "1063",
         "CTA Stop Name": "Lake Shore & Addison",
         "Routes": "135,146,151",
-        "LONGITUDE": "-87.643435",
-        "LATITUDE": "41.948591",
+        "start_lng": "-87.643435",
+        "start_lat": "41.948591",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25101.14922813036",
-        "HeatValue": "0.0237053990381624"
+        "heat": "0.0237053990381624"
     },
     {
         "Stop_ID": "1065",
         "CTA Stop Name": "Lake Shore & Cornelia",
         "Routes": "135,146,151",
-        "LONGITUDE": "-87.642378",
-        "LATITUDE": "41.946619",
+        "start_lng": "-87.642378",
+        "start_lat": "41.946619",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25101.14922813036",
-        "HeatValue": "0.0237053990381624"
+        "heat": "0.0237053990381624"
     },
     {
         "Stop_ID": "1077",
         "CTA Stop Name": "Sheridan & Diversey",
         "Routes": "134,143,151,156",
-        "LONGITUDE": "-87.639398",
-        "LATITUDE": "41.933015",
+        "start_lng": "-87.639398",
+        "start_lat": "41.933015",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "24422.041273584906",
-        "HeatValue": "0.02306405290272534"
+        "heat": "0.02306405290272534"
     },
     {
         "Stop_ID": "1078",
         "CTA Stop Name": "Stockton & Wrightwood",
         "Routes": "134,143,151,156",
-        "LONGITUDE": "-87.639031",
-        "LATITUDE": "41.931304",
+        "start_lng": "-87.639031",
+        "start_lat": "41.931304",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "24422.041273584906",
-        "HeatValue": "0.02306405290272534"
+        "heat": "0.02306405290272534"
     },
     {
         "Stop_ID": "1082",
         "CTA Stop Name": "Stockton & Webster",
         "Routes": "151,156",
-        "LONGITUDE": "-87.635806",
-        "LATITUDE": "41.922116",
+        "start_lng": "-87.635806",
+        "start_lat": "41.922116",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "24422.041273584906",
-        "HeatValue": "0.02306405290272534"
+        "heat": "0.02306405290272534"
     },
     {
         "Stop_ID": "1102",
         "CTA Stop Name": "Michigan & Illinois",
         "Routes": "2,3,10,26,143,146,147,148,151,157",
-        "LONGITUDE": "-87.624293",
-        "LATITUDE": "41.891032",
+        "start_lng": "-87.624293",
+        "start_lat": "41.891032",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "51455.399931593565",
-        "HeatValue": "0.048594220804826206"
+        "heat": "0.048594220804826206"
     },
     {
         "Stop_ID": "1105",
         "CTA Stop Name": "Michigan & Lake/Randolph",
         "Routes": "3,4,19,26,N66,124,143,147,151,157",
-        "LONGITUDE": "-87.624615",
-        "LATITUDE": "41.885104",
+        "start_lng": "-87.624615",
+        "start_lat": "41.885104",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "67557.22792027156",
-        "HeatValue": "0.06380070614326241"
+        "heat": "0.06380070614326241"
     },
     {
         "Stop_ID": "1106",
         "CTA Stop Name": "Michigan & Washington",
         "Routes": "3,4,19,20,26,60,N66,124,143,147,151,157",
-        "LONGITUDE": "-87.624588",
-        "LATITUDE": "41.883414",
+        "start_lng": "-87.624588",
+        "start_lat": "41.883414",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "150066.20569804934",
-        "HeatValue": "0.14172176962433794"
+        "heat": "0.14172176962433794"
     },
     {
         "Stop_ID": "1110",
         "CTA Stop Name": "Michigan & Jackson",
         "Routes": "3,4,J14,26,143,147",
-        "LONGITUDE": "-87.624446",
-        "LATITUDE": "41.878429",
+        "start_lng": "-87.624446",
+        "start_lat": "41.878429",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "56562.519980019984",
-        "HeatValue": "0.05341735928280756"
+        "heat": "0.05341735928280756"
     },
     {
         "Stop_ID": "1119",
         "CTA Stop Name": "Michigan & Randolph",
         "Routes": "3,6,19,20,26,N66,124,143,147,151,157",
-        "LONGITUDE": "-87.624318",
-        "LATITUDE": "41.884688",
+        "start_lng": "-87.624318",
+        "start_lat": "41.884688",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "99342.19365453727",
-        "HeatValue": "0.09381826786114114"
+        "heat": "0.09381826786114114"
     },
     {
         "Stop_ID": "1120",
         "CTA Stop Name": "Michigan & South Water",
         "Routes": "3,6,20,26,N66,124,143,146,147,148,151,157",
-        "LONGITUDE": "-87.624384",
-        "LATITUDE": "41.8867",
+        "start_lng": "-87.624384",
+        "start_lat": "41.8867",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "106872.07244241607",
-        "HeatValue": "0.10092944750289322"
+        "heat": "0.10092944750289322"
     },
     {
         "Stop_ID": "1122",
         "CTA Stop Name": "Michigan & Hubbard (Tribune Bldg.)",
         "Routes": "2,3,10,26,N66,143,146,147,148,151,157",
-        "LONGITUDE": "-87.623969",
-        "LATITUDE": "41.890205",
+        "start_lng": "-87.623969",
+        "start_lat": "41.890205",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "51455.399931593565",
-        "HeatValue": "0.048594220804826206"
+        "heat": "0.048594220804826206"
     },
     {
         "Stop_ID": "1124",
         "CTA Stop Name": "Michigan & Ontario",
         "Routes": "3,10,26,125,143,146,147,148,151",
-        "LONGITUDE": "-87.624089",
-        "LATITUDE": "41.893194",
+        "start_lng": "-87.624089",
+        "start_lat": "41.893194",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "54490.97195540309",
-        "HeatValue": "0.0514609997510604"
+        "heat": "0.0514609997510604"
     },
     {
         "Stop_ID": "1125",
         "CTA Stop Name": "Michigan & Huron",
         "Routes": "3,10,26,125,143,146,147,148,151",
-        "LONGITUDE": "-87.624104",
-        "LATITUDE": "41.894798",
+        "start_lng": "-87.624104",
+        "start_lat": "41.894798",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "54490.97195540309",
-        "HeatValue": "0.0514609997510604"
+        "heat": "0.0514609997510604"
     },
     {
         "Stop_ID": "1127",
         "CTA Stop Name": "Michigan & Chestnut",
         "Routes": "143,146,147,148,151",
-        "LONGITUDE": "-87.62396",
-        "LATITUDE": "41.898069",
+        "start_lng": "-87.62396",
+        "start_lat": "41.898069",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "27829.421955403086",
-        "HeatValue": "0.026281966074880213"
+        "heat": "0.026281966074880213"
     },
     {
         "Stop_ID": "1257",
         "CTA Stop Name": "Fullerton & Pulaski",
         "Routes": "74",
-        "LONGITUDE": "-87.72659",
-        "LATITUDE": "41.924597",
+        "start_lng": "-87.72659",
+        "start_lat": "41.924597",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "116031.0",
-        "HeatValue": "0.10957909260642623"
+        "heat": "0.10957909260642623"
     },
     {
         "Stop_ID": "1517",
         "CTA Stop Name": "S Hyde Park & 56th Street",
         "Routes": "6,28,55",
-        "LONGITUDE": "-87.583802",
-        "LATITUDE": "41.793316",
+        "start_lng": "-87.583802",
+        "start_lat": "41.793316",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "74515.17272727273",
-        "HeatValue": "0.07037175421107864"
+        "heat": "0.07037175421107864"
     },
     {
         "Stop_ID": "1591",
         "CTA Stop Name": "Michigan & Roosevelt",
         "Routes": "1,3,4",
-        "LONGITUDE": "-87.624259",
-        "LATITUDE": "41.86712",
+        "start_lng": "-87.624259",
+        "start_lat": "41.86712",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "52695.5",
-        "HeatValue": "0.049765365070041055"
+        "heat": "0.049765365070041055"
     },
     {
         "Stop_ID": "1725",
         "CTA Stop Name": "Devon & California",
         "Routes": "155",
-        "LONGITUDE": "-87.6998",
-        "LATITUDE": "41.997502",
+        "start_lng": "-87.6998",
+        "start_lat": "41.997502",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "33160.833333333336",
-        "HeatValue": "0.03131692415595487"
+        "heat": "0.03131692415595487"
     },
     {
         "Stop_ID": "1757",
         "CTA Stop Name": "Devon & Sheridan",
         "Routes": "36,151,155",
-        "LONGITUDE": "-87.661075",
-        "LATITUDE": "41.998251",
+        "start_lng": "-87.661075",
+        "start_lat": "41.998251",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "73511.99960691825",
-        "HeatValue": "0.06942436256353961"
+        "heat": "0.06942436256353961"
     },
     {
         "Stop_ID": "2121",
         "CTA Stop Name": "King Drive & 79th Street",
         "Routes": "3",
-        "LONGITUDE": "-87.614872",
-        "LATITUDE": "41.751307",
+        "start_lng": "-87.614872",
+        "start_lat": "41.751307",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17138.5",
-        "HeatValue": "0.016185513170060034"
+        "heat": "0.016185513170060034"
     },
     {
         "Stop_ID": "2192",
         "CTA Stop Name": "McCormick Place",
         "Routes": "3,21",
-        "LONGITUDE": "-87.619053",
-        "LATITUDE": "41.851079",
+        "start_lng": "-87.619053",
+        "start_lat": "41.851079",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "136197.5",
-        "HeatValue": "0.1286242337415323"
+        "heat": "0.1286242337415323"
     },
     {
         "Stop_ID": "2218",
         "CTA Stop Name": "King Drive & 51st Street",
         "Routes": "3",
-        "LONGITUDE": "-87.616234",
-        "LATITUDE": "41.801868",
+        "start_lng": "-87.616234",
+        "start_lat": "41.801868",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17138.5",
-        "HeatValue": "0.016185513170060034"
+        "heat": "0.016185513170060034"
     },
     {
         "Stop_ID": "2470",
         "CTA Stop Name": "Cottage Grove & 87th Street",
         "Routes": "4",
-        "LONGITUDE": "-87.604694",
-        "LATITUDE": "41.736538",
+        "start_lng": "-87.604694",
+        "start_lat": "41.736538",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25022.46153846154",
-        "HeatValue": "0.02363108677994515"
+        "heat": "0.02363108677994515"
     },
     {
         "Stop_ID": "2549",
         "CTA Stop Name": "Cottage Grove & 47th Street",
         "Routes": "4",
-        "LONGITUDE": "-87.606677",
-        "LATITUDE": "41.809649",
+        "start_lng": "-87.606677",
+        "start_lat": "41.809649",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25022.46153846154",
-        "HeatValue": "0.02363108677994515"
+        "heat": "0.02363108677994515"
     },
     {
         "Stop_ID": "2566",
         "CTA Stop Name": "Cottage Grove & 63rd Street (Green Line)",
         "Routes": "4",
-        "LONGITUDE": "-87.60604",
-        "LATITUDE": "41.780525",
+        "start_lng": "-87.60604",
+        "start_lat": "41.780525",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25022.46153846154",
-        "HeatValue": "0.02363108677994515"
+        "heat": "0.02363108677994515"
     },
     {
         "Stop_ID": "2608",
         "CTA Stop Name": "79th Street & Colfax",
         "Routes": "79",
-        "LONGITUDE": "-87.561286",
-        "LATITUDE": "41.751852",
+        "start_lng": "-87.561286",
+        "start_lat": "41.751852",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "86012.1",
-        "HeatValue": "0.08122939448227796"
+        "heat": "0.08122939448227796"
     },
     {
         "Stop_ID": "2722",
         "CTA Stop Name": "79th Street & Kilpatrick",
         "Routes": "79",
-        "LONGITUDE": "-87.739215",
-        "LATITUDE": "41.749086",
+        "start_lng": "-87.739215",
+        "start_lat": "41.749086",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "86012.1",
-        "HeatValue": "0.08122939448227796"
+        "heat": "0.08122939448227796"
     },
     {
         "Stop_ID": "2737",
         "CTA Stop Name": "79th Street & Kedzie",
         "Routes": "79",
-        "LONGITUDE": "-87.702566",
-        "LATITUDE": "41.749709",
+        "start_lng": "-87.702566",
+        "start_lat": "41.749709",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "86012.1",
-        "HeatValue": "0.08122939448227796"
+        "heat": "0.08122939448227796"
     },
     {
         "Stop_ID": "2820",
         "CTA Stop Name": "95th Street & Cottage Grove",
         "Routes": "100,115",
-        "LONGITUDE": "-87.604547",
-        "LATITUDE": "41.721944",
+        "start_lng": "-87.604547",
+        "start_lat": "41.721944",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "3863.0",
-        "HeatValue": "0.003648197763861593"
+        "heat": "0.003648197763861593"
     },
     {
         "Stop_ID": "3024",
         "CTA Stop Name": "Kedzie & Chicago",
         "Routes": "52",
-        "LONGITUDE": "-87.706631",
-        "LATITUDE": "41.895366",
+        "start_lng": "-87.706631",
+        "start_lat": "41.895366",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "80110.75",
-        "HeatValue": "0.07565618923408624"
+        "heat": "0.07565618923408624"
     },
     {
         "Stop_ID": "3222",
         "CTA Stop Name": "63rd Street & King Drive (Green Line)",
         "Routes": "63",
-        "LONGITUDE": "-87.615528",
-        "LATITUDE": "41.780301",
+        "start_lng": "-87.615528",
+        "start_lat": "41.780301",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "71582.25",
-        "HeatValue": "0.06760191674402835"
+        "heat": "0.06760191674402835"
     },
     {
         "Stop_ID": "3645",
         "CTA Stop Name": "Halsted & 111th Street",
         "Routes": "8A,108",
-        "LONGITUDE": "-87.642253",
-        "LATITUDE": "41.692233",
+        "start_lng": "-87.642253",
+        "start_lat": "41.692233",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "49811.0",
-        "HeatValue": "0.04704125778299503"
+        "heat": "0.04704125778299503"
     },
     {
         "Stop_ID": "4606",
         "CTA Stop Name": "Cicero & Archer",
         "Routes": "54B,62",
-        "LONGITUDE": "-87.74273",
-        "LATITUDE": "41.798471",
+        "start_lng": "-87.74273",
+        "start_lat": "41.798471",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "91328.11111111111",
-        "HeatValue": "0.08624980862885288"
+        "heat": "0.08624980862885288"
     },
     {
         "Stop_ID": "4612",
         "CTA Stop Name": "Cicero & 63rd Street",
         "Routes": "54B,63W,165",
-        "LONGITUDE": "-87.742459",
-        "LATITUDE": "41.778589",
+        "start_lng": "-87.742459",
+        "start_lat": "41.778589",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "125232.5",
-        "HeatValue": "0.11826894291037975"
+        "heat": "0.11826894291037975"
     },
     {
         "Stop_ID": "4644",
         "CTA Stop Name": "Halsted & Archer",
         "Routes": "8,N62",
-        "LONGITUDE": "-87.646584",
-        "LATITUDE": "41.847314",
+        "start_lng": "-87.646584",
+        "start_lat": "41.847314",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "262913.0",
-        "HeatValue": "0.2482937143904072"
+        "heat": "0.2482937143904072"
     },
     {
         "Stop_ID": "4694",
         "CTA Stop Name": "Pulaski & 111th Street",
         "Routes": "53A",
-        "LONGITUDE": "-87.720193",
-        "LATITUDE": "41.691114",
+        "start_lng": "-87.720193",
+        "start_lat": "41.691114",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "50433.5",
-        "HeatValue": "0.04762914365097429"
+        "heat": "0.04762914365097429"
     },
     {
         "Stop_ID": "4704",
         "CTA Stop Name": "Pulaski & 79th Street",
         "Routes": "53A",
-        "LONGITUDE": "-87.721774",
-        "LATITUDE": "41.749338",
+        "start_lng": "-87.721774",
+        "start_lat": "41.749338",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "50433.5",
-        "HeatValue": "0.04762914365097429"
+        "heat": "0.04762914365097429"
     },
     {
         "Stop_ID": "4731",
         "CTA Stop Name": "Pulaski & 75th Place",
         "Routes": "53A,67",
-        "LONGITUDE": "-87.722391",
-        "LATITUDE": "41.756938",
+        "start_lng": "-87.722391",
+        "start_lat": "41.756938",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "96560.0",
-        "HeatValue": "0.09119077817201021"
+        "heat": "0.09119077817201021"
     },
     {
         "Stop_ID": "4764",
         "CTA Stop Name": "Foster & Pulaski",
         "Routes": "92",
-        "LONGITUDE": "-87.728456",
-        "LATITUDE": "41.975459",
+        "start_lng": "-87.728456",
+        "start_lat": "41.975459",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "95189.0",
-        "HeatValue": "0.0898960126700029"
+        "heat": "0.0898960126700029"
     },
     {
         "Stop_ID": "4867",
         "CTA Stop Name": "Lake Shore Drive & Belmont",
         "Routes": "135,146",
-        "LONGITUDE": "-87.638928",
-        "LATITUDE": "41.940364",
+        "start_lng": "-87.638928",
+        "start_lat": "41.940364",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "12223.545454545456",
-        "HeatValue": "0.011543854826231756"
+        "heat": "0.011543854826231756"
     },
     {
         "Stop_ID": "4975",
         "CTA Stop Name": "LaSalle & Randolph",
         "Routes": "134,135,136,156",
-        "LONGITUDE": "-87.632319",
-        "LATITUDE": "41.884308",
+        "start_lng": "-87.632319",
+        "start_lat": "41.884308",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "18866.6375",
-        "HeatValue": "0.0178175575301805"
+        "heat": "0.0178175575301805"
     },
     {
         "Stop_ID": "4992",
         "CTA Stop Name": "Clinton & Quincy",
         "Routes": "124,125,130,192",
-        "LONGITUDE": "-87.641171",
-        "LATITUDE": "41.878741",
+        "start_lng": "-87.641171",
+        "start_lat": "41.878741",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "17652.51111111111",
-        "HeatValue": "0.016670942677219126"
+        "heat": "0.016670942677219126"
     },
     {
         "Stop_ID": "5037",
         "CTA Stop Name": "Lake Park & E. Hyde Park Blvd",
         "Routes": "2,6,28",
-        "LONGITUDE": "-87.587888",
-        "LATITUDE": "41.802873",
+        "start_lng": "-87.587888",
+        "start_lat": "41.802873",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "43007.81774891775",
-        "HeatValue": "0.04061636669432272"
+        "heat": "0.04061636669432272"
     },
     {
         "Stop_ID": "5315",
         "CTA Stop Name": "67th Street & Cornell Drive",
         "Routes": "N5,6,15,67",
-        "LONGITUDE": "-87.585637",
-        "LATITUDE": "41.773392",
+        "start_lng": "-87.585637",
+        "start_lat": "41.773392",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "66171.72727272726",
-        "HeatValue": "0.06249224630267223"
+        "heat": "0.06249224630267223"
     },
     {
         "Stop_ID": "5338",
         "CTA Stop Name": "Broadway & Bryn Mawr/Ridge",
         "Routes": "36",
-        "LONGITUDE": "-87.660186",
-        "LATITUDE": "41.98387",
+        "start_lng": "-87.660186",
+        "start_lat": "41.98387",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "27473.5625",
-        "HeatValue": "0.025945894195654084"
+        "heat": "0.025945894195654084"
     },
     {
         "Stop_ID": "5702",
         "CTA Stop Name": "Irving Park & Kimball",
         "Routes": "80",
-        "LONGITUDE": "-87.712792",
-        "LATITUDE": "41.953968",
+        "start_lng": "-87.712792",
+        "start_lat": "41.953968",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "33498.1",
-        "HeatValue": "0.03163543709904531"
+        "heat": "0.03163543709904531"
     },
     {
         "Stop_ID": "5995",
         "CTA Stop Name": "Ashland & Irving Park",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.669172",
-        "LATITUDE": "41.954091",
+        "start_lng": "-87.669172",
+        "start_lat": "41.954091",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6016",
         "CTA Stop Name": "Ashland & Cortland",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.667932",
-        "LATITUDE": "41.916304",
+        "start_lng": "-87.667932",
+        "start_lat": "41.916304",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6024",
         "CTA Stop Name": "Ashland & Division (Blue Line)",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.667658",
-        "LATITUDE": "41.90351",
+        "start_lng": "-87.667658",
+        "start_lat": "41.90351",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6032",
         "CTA Stop Name": "Ashland & Grand",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.667272",
-        "LATITUDE": "41.891106",
+        "start_lng": "-87.667272",
+        "start_lat": "41.891106",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6114",
         "CTA Stop Name": "Ashland & 79th Street",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.663581",
-        "LATITUDE": "41.750445",
+        "start_lng": "-87.663581",
+        "start_lat": "41.750445",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6155",
         "CTA Stop Name": "Ashland & 87th Street",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.662915",
-        "LATITUDE": "41.735638",
+        "start_lng": "-87.662915",
+        "start_lat": "41.735638",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6168",
         "CTA Stop Name": "Ashland & 74th Street",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.663512",
-        "LATITUDE": "41.759364",
+        "start_lng": "-87.663512",
+        "start_lat": "41.759364",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6209",
         "CTA Stop Name": "Ashland & 35th Street",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.665421",
-        "LATITUDE": "41.830386",
+        "start_lng": "-87.665421",
+        "start_lat": "41.830386",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6305",
         "CTA Stop Name": "26th Street & Kildare",
         "Routes": "60",
-        "LONGITUDE": "-87.731945",
-        "LATITUDE": "41.844076",
+        "start_lng": "-87.731945",
+        "start_lat": "41.844076",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "45746.77777777778",
-        "HeatValue": "0.04320302676488794"
+        "heat": "0.04320302676488794"
     },
     {
         "Stop_ID": "6308",
         "CTA Stop Name": "26th Street & Pulaski",
         "Routes": "60",
-        "LONGITUDE": "-87.724703",
-        "LATITUDE": "41.844189",
+        "start_lng": "-87.724703",
+        "start_lat": "41.844189",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "45746.77777777778",
-        "HeatValue": "0.04320302676488794"
+        "heat": "0.04320302676488794"
     },
     {
         "Stop_ID": "6681",
         "CTA Stop Name": "Western & Roosevelt",
         "Routes": "49,X49,157",
-        "LONGITUDE": "-87.685903",
-        "LATITUDE": "41.866476",
+        "start_lng": "-87.685903",
+        "start_lat": "41.866476",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "38972.77497412008",
-        "HeatValue": "0.03680569259955111"
+        "heat": "0.03680569259955111"
     },
     {
         "Stop_ID": "8155",
         "CTA Stop Name": "47th Street & Western Avenue",
         "Routes": "47,94",
-        "LONGITUDE": "-87.684563",
-        "LATITUDE": "41.808374",
+        "start_lng": "-87.684563",
+        "start_lat": "41.808374",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "110323.57142857142",
-        "HeatValue": "0.10418902577968911"
+        "heat": "0.10418902577968911"
     },
     {
         "Stop_ID": "8283",
         "CTA Stop Name": "Western & 55th Street/Garfield",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.684176",
-        "LATITUDE": "41.793997",
+        "start_lng": "-87.684176",
+        "start_lat": "41.793997",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8360",
         "CTA Stop Name": "Western & Cermak",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.685514",
-        "LATITUDE": "41.851915",
+        "start_lng": "-87.685514",
+        "start_lat": "41.851915",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8388",
         "CTA Stop Name": "Western & Chicago",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.686706",
-        "LATITUDE": "41.895635",
+        "start_lng": "-87.686706",
+        "start_lat": "41.895635",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8539",
         "CTA Stop Name": "Harlem & Foster",
         "Routes": "90",
-        "LONGITUDE": "-87.807153",
-        "LATITUDE": "41.974631",
+        "start_lng": "-87.807153",
+        "start_lat": "41.974631",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "51408.5",
-        "HeatValue": "0.048549928745399616"
+        "heat": "0.048549928745399616"
     },
     {
         "Stop_ID": "9017",
         "CTA Stop Name": "Pulaski & North Ave",
         "Routes": "53",
-        "LONGITUDE": "-87.72653",
-        "LATITUDE": "41.909618",
+        "start_lng": "-87.72653",
+        "start_lat": "41.909618",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "138463.75",
-        "HeatValue": "0.1307644688392158"
+        "heat": "0.1307644688392158"
     },
     {
         "Stop_ID": "9453",
         "CTA Stop Name": "91st Street & Commercial",
         "Routes": "26,87",
-        "LONGITUDE": "-87.551111",
-        "LATITUDE": "41.730147",
+        "start_lng": "-87.551111",
+        "start_lat": "41.730147",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "57613.42857142857",
-        "HeatValue": "0.05440983206903581"
+        "heat": "0.05440983206903581"
     },
     {
         "Stop_ID": "9511",
         "CTA Stop Name": "87th Street & Western",
         "Routes": "87",
-        "LONGITUDE": "-87.682215",
-        "LATITUDE": "41.735648",
+        "start_lng": "-87.682215",
+        "start_lat": "41.735648",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "57613.42857142857",
-        "HeatValue": "0.05440983206903581"
+        "heat": "0.05440983206903581"
     },
     {
         "Stop_ID": "9798",
         "CTA Stop Name": "Gale & Milwaukee",
         "Routes": "85,88",
-        "LONGITUDE": "-87.763491",
-        "LATITUDE": "41.970525",
+        "start_lng": "-87.763491",
+        "start_lat": "41.970525",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "124071.75",
-        "HeatValue": "0.11717273645052928"
+        "heat": "0.11717273645052928"
     },
     {
         "Stop_ID": "10228",
         "CTA Stop Name": "Cicero & North Ave",
         "Routes": "54",
-        "LONGITUDE": "-87.746256",
-        "LATITUDE": "41.909316",
+        "start_lng": "-87.746256",
+        "start_lat": "41.909316",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "70167.4",
-        "HeatValue": "0.06626573952264611"
+        "heat": "0.06626573952264611"
     },
     {
         "Stop_ID": "10292",
         "CTA Stop Name": "Cicero & Madison",
         "Routes": "54",
-        "LONGITUDE": "-87.745173",
-        "LATITUDE": "41.880347",
+        "start_lng": "-87.745173",
+        "start_lat": "41.880347",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "70167.4",
-        "HeatValue": "0.06626573952264611"
+        "heat": "0.06626573952264611"
     },
     {
         "Stop_ID": "10502",
         "CTA Stop Name": "55th Street & Pulaski",
         "Routes": "55",
-        "LONGITUDE": "-87.72267",
-        "LATITUDE": "41.793143",
+        "start_lng": "-87.72267",
+        "start_lat": "41.793143",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32424.545454545456",
-        "HeatValue": "0.030621577587755973"
+        "heat": "0.030621577587755973"
     },
     {
         "Stop_ID": "10519",
         "CTA Stop Name": "55th Street & Western Avenue",
         "Routes": "55",
-        "LONGITUDE": "-87.684239",
-        "LATITUDE": "41.793796",
+        "start_lng": "-87.684239",
+        "start_lat": "41.793796",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32424.545454545456",
-        "HeatValue": "0.030621577587755973"
+        "heat": "0.030621577587755973"
     },
     {
         "Stop_ID": "10528",
         "CTA Stop Name": "Garfield & Ashland",
         "Routes": "55",
-        "LONGITUDE": "-87.664294",
-        "LATITUDE": "41.793616",
+        "start_lng": "-87.664294",
+        "start_lat": "41.793616",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32424.545454545456",
-        "HeatValue": "0.030621577587755973"
+        "heat": "0.030621577587755973"
     },
     {
         "Stop_ID": "10536",
         "CTA Stop Name": "Garfield & Halsted",
         "Routes": "55",
-        "LONGITUDE": "-87.644799",
-        "LATITUDE": "41.793895",
+        "start_lng": "-87.644799",
+        "start_lat": "41.793895",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32424.545454545456",
-        "HeatValue": "0.030621577587755973"
+        "heat": "0.030621577587755973"
     },
     {
         "Stop_ID": "10854",
         "CTA Stop Name": "75th Street & Exchange",
         "Routes": "N5,71,75",
-        "LONGITUDE": "-87.560031",
-        "LATITUDE": "41.759213",
+        "start_lng": "-87.560031",
+        "start_lat": "41.759213",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "194703.5",
-        "HeatValue": "0.18387700577686403"
+        "heat": "0.18387700577686403"
     },
     {
         "Stop_ID": "10973",
         "CTA Stop Name": "Diversey & Narragansett",
         "Routes": "76",
-        "LONGITUDE": "-87.785821",
-        "LATITUDE": "41.930935",
+        "start_lng": "-87.785821",
+        "start_lat": "41.930935",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "56641.0",
-        "HeatValue": "0.053491475418815555"
+        "heat": "0.053491475418815555"
     },
     {
         "Stop_ID": "11123",
         "CTA Stop Name": "Kimball & Foster",
         "Routes": "82,93",
-        "LONGITUDE": "-87.713643",
-        "LATITUDE": "41.975378",
+        "start_lng": "-87.713643",
+        "start_lat": "41.975378",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "101081.5",
-        "HeatValue": "0.09546086002272214"
+        "heat": "0.09546086002272214"
     },
     {
         "Stop_ID": "11267",
         "CTA Stop Name": "Kimball & Diversey/Milwaukee",
         "Routes": "82",
-        "LONGITUDE": "-87.712224",
-        "LATITUDE": "41.932303",
+        "start_lng": "-87.712224",
+        "start_lat": "41.932303",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "83624.83333333333",
-        "HeatValue": "0.07897487185347271"
+        "heat": "0.07897487185347271"
     },
     {
         "Stop_ID": "11324",
         "CTA Stop Name": "Montrose & Cicero",
         "Routes": "78",
-        "LONGITUDE": "-87.747719",
-        "LATITUDE": "41.960648",
+        "start_lng": "-87.747719",
+        "start_lat": "41.960648",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "60544.25",
-        "HeatValue": "0.057177685080164964"
+        "heat": "0.057177685080164964"
     },
     {
         "Stop_ID": "11667",
         "CTA Stop Name": "Touhy & Lehigh",
         "Routes": "85A",
-        "LONGITUDE": "-87.773448",
-        "LATITUDE": "42.011846",
+        "start_lng": "-87.773448",
+        "start_lat": "42.011846",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "19098.0",
-        "HeatValue": "0.01803605511111279"
+        "heat": "0.01803605511111279"
     },
     {
         "Stop_ID": "11877",
         "CTA Stop Name": "California & Devon",
         "Routes": "93",
-        "LONGITUDE": "-87.699728",
-        "LATITUDE": "41.997646",
+        "start_lng": "-87.699728",
+        "start_lat": "41.997646",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17456.666666666668",
-        "HeatValue": "0.01648598816924943"
+        "heat": "0.01648598816924943"
     },
     {
         "Stop_ID": "12515",
         "CTA Stop Name": "Addison Blue Line Station",
         "Routes": "152",
-        "LONGITUDE": "-87.717525",
-        "LATITUDE": "41.946417",
+        "start_lng": "-87.717525",
+        "start_lat": "41.946417",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "52069.2",
-        "HeatValue": "0.04917389050118096"
+        "heat": "0.04917389050118096"
     },
     {
         "Stop_ID": "14459",
         "CTA Stop Name": "Roosevelt & Halsted",
         "Routes": "12,18,N62",
-        "LONGITUDE": "-87.646325",
-        "LATITUDE": "41.867071",
+        "start_lng": "-87.646325",
+        "start_lat": "41.867071",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "49404.892857142855",
-        "HeatValue": "0.046657732240551426"
+        "heat": "0.046657732240551426"
     },
     {
         "Stop_ID": "14485",
         "CTA Stop Name": "Michigan & Congress",
         "Routes": "1,3,4,6,J14,26,28",
-        "LONGITUDE": "-87.624126",
-        "LATITUDE": "41.87554",
+        "start_lng": "-87.624126",
+        "start_lat": "41.87554",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "101819.41298701297",
-        "HeatValue": "0.0961577413349523"
+        "heat": "0.0961577413349523"
     },
     {
         "Stop_ID": "14497",
         "CTA Stop Name": "Halsted & 103rd Street",
         "Routes": "8A,108",
-        "LONGITUDE": "-87.642709",
-        "LATITUDE": "41.707072",
+        "start_lng": "-87.642709",
+        "start_lat": "41.707072",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "49811.0",
-        "HeatValue": "0.04704125778299503"
+        "heat": "0.04704125778299503"
     },
     {
         "Stop_ID": "14502",
         "CTA Stop Name": "47th Street & Pulaski",
         "Routes": "47",
-        "LONGITUDE": "-87.723249",
-        "LATITUDE": "41.807815",
+        "start_lng": "-87.723249",
+        "start_lat": "41.807815",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "74268.0",
-        "HeatValue": "0.0701383255310569"
+        "heat": "0.0701383255310569"
     },
     {
         "Stop_ID": "14522",
         "CTA Stop Name": "Chicago & Kedzie",
         "Routes": "66",
-        "LONGITUDE": "-87.706738",
-        "LATITUDE": "41.89563",
+        "start_lng": "-87.706738",
+        "start_lat": "41.89563",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "14529",
         "CTA Stop Name": "Western & Berwyn",
         "Routes": "49,49B",
-        "LONGITUDE": "-87.689336",
-        "LATITUDE": "41.977533",
+        "start_lng": "-87.689336",
+        "start_lat": "41.977533",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "74557.28985507246",
-        "HeatValue": "0.07041152941466633"
+        "heat": "0.07041152941466633"
     },
     {
         "Stop_ID": "14555",
         "CTA Stop Name": "Western & Cermak",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.685756",
-        "LATITUDE": "41.851825",
+        "start_lng": "-87.685756",
+        "start_lat": "41.851825",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "14558",
         "CTA Stop Name": "Irving Park & Kedzie",
         "Routes": "80",
-        "LONGITUDE": "-87.707632",
-        "LATITUDE": "41.953825",
+        "start_lng": "-87.707632",
+        "start_lat": "41.953825",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "33498.1",
-        "HeatValue": "0.03163543709904531"
+        "heat": "0.03163543709904531"
     },
     {
         "Stop_ID": "14559",
         "CTA Stop Name": "McCormick Place",
         "Routes": "3,21",
-        "LONGITUDE": "-87.618849",
-        "LATITUDE": "41.851536",
+        "start_lng": "-87.618849",
+        "start_lat": "41.851536",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "136197.5",
-        "HeatValue": "0.1286242337415323"
+        "heat": "0.1286242337415323"
     },
     {
         "Stop_ID": "14592",
         "CTA Stop Name": "Western & Lawrence",
         "Routes": "11,49,49B,X49",
-        "LONGITUDE": "-87.688769",
-        "LATITUDE": "41.968857",
+        "start_lng": "-87.688769",
+        "start_lat": "41.968857",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "170192.67080745343",
-        "HeatValue": "0.16072910201019514"
+        "heat": "0.16072910201019514"
     },
     {
         "Stop_ID": "14627",
         "CTA Stop Name": "Pulaski & Chicago",
         "Routes": "53,N66",
-        "LONGITUDE": "-87.726178",
-        "LATITUDE": "41.895154",
+        "start_lng": "-87.726178",
+        "start_lat": "41.895154",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "138463.75",
-        "HeatValue": "0.1307644688392158"
+        "heat": "0.1307644688392158"
     },
     {
         "Stop_ID": "14771",
         "CTA Stop Name": "Cicero & Belmont",
         "Routes": "54",
-        "LONGITUDE": "-87.747024",
-        "LATITUDE": "41.938631",
+        "start_lng": "-87.747024",
+        "start_lat": "41.938631",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "70167.4",
-        "HeatValue": "0.06626573952264611"
+        "heat": "0.06626573952264611"
     },
     {
         "Stop_ID": "14774",
         "CTA Stop Name": "Grand & Milwaukee (Blue Line)",
         "Routes": "65",
-        "LONGITUDE": "-87.648147",
-        "LATITUDE": "41.891251",
+        "start_lng": "-87.648147",
+        "start_lat": "41.891251",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25766.428571428572",
-        "HeatValue": "0.02433368550271426"
+        "heat": "0.02433368550271426"
     },
     {
         "Stop_ID": "14775",
         "CTA Stop Name": "Illinois & State",
         "Routes": "29,65",
-        "LONGITUDE": "-87.627745",
-        "LATITUDE": "41.890819",
+        "start_lng": "-87.627745",
+        "start_lat": "41.890819",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "56920.30357142857",
-        "HeatValue": "0.05375524830639627"
+        "heat": "0.05375524830639627"
     },
     {
         "Stop_ID": "14783",
         "CTA Stop Name": "Ashland & Lake (Green Line)",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.666772",
-        "LATITUDE": "41.88522",
+        "start_lng": "-87.666772",
+        "start_lat": "41.88522",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "14840",
         "CTA Stop Name": "Madison & Kedzie",
         "Routes": "20",
-        "LONGITUDE": "-87.706375",
-        "LATITUDE": "41.881024",
+        "start_lng": "-87.706375",
+        "start_lat": "41.881024",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36762.2",
-        "HeatValue": "0.03471803671618759"
+        "heat": "0.03471803671618759"
     },
     {
         "Stop_ID": "14844",
         "CTA Stop Name": "Central & Madison",
         "Routes": "85",
-        "LONGITUDE": "-87.764762",
-        "LATITUDE": "41.88047",
+        "start_lng": "-87.764762",
+        "start_lat": "41.88047",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "81479.75",
-        "HeatValue": "0.07694906594615626"
+        "heat": "0.07694906594615626"
     },
     {
         "Stop_ID": "14912",
         "CTA Stop Name": "Belmont & Lincoln/Ashland",
         "Routes": "77",
-        "LONGITUDE": "-87.668256",
-        "LATITUDE": "41.939643",
+        "start_lng": "-87.668256",
+        "start_lat": "41.939643",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "88834.5",
-        "HeatValue": "0.08389485484177135"
+        "heat": "0.08389485484177135"
     },
     {
         "Stop_ID": "14943",
         "CTA Stop Name": "Ewing & 106th Street",
         "Routes": "30",
-        "LONGITUDE": "-87.535193",
-        "LATITUDE": "41.70298",
+        "start_lng": "-87.535193",
+        "start_lat": "41.70298",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "21929.5",
-        "HeatValue": "0.020710109464820815"
+        "heat": "0.020710109464820815"
     },
     {
         "Stop_ID": "14950",
         "CTA Stop Name": "Michigan & 111th Street",
         "Routes": "34,119",
-        "LONGITUDE": "-87.620971",
-        "LATITUDE": "41.692747",
+        "start_lng": "-87.620971",
+        "start_lat": "41.692747",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "87867.25",
-        "HeatValue": "0.08298138880835298"
+        "heat": "0.08298138880835298"
     },
     {
         "Stop_ID": "14954",
         "CTA Stop Name": "Roosevelt & Pulaski",
         "Routes": "12",
-        "LONGITUDE": "-87.72491",
-        "LATITUDE": "41.866082",
+        "start_lng": "-87.72491",
+        "start_lat": "41.866082",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "39860.142857142855",
-        "HeatValue": "0.03764371836361176"
+        "heat": "0.03764371836361176"
     },
     {
         "Stop_ID": "14956",
         "CTA Stop Name": "Madison & Central",
         "Routes": "20",
-        "LONGITUDE": "-87.764612",
-        "LATITUDE": "41.880141",
+        "start_lng": "-87.764612",
+        "start_lat": "41.880141",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36762.2",
-        "HeatValue": "0.03471803671618759"
+        "heat": "0.03471803671618759"
     },
     {
         "Stop_ID": "14959",
         "CTA Stop Name": "Madison & Cicero",
         "Routes": "20",
-        "LONGITUDE": "-87.744968",
-        "LATITUDE": "41.880392",
+        "start_lng": "-87.744968",
+        "start_lat": "41.880392",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36762.2",
-        "HeatValue": "0.03471803671618759"
+        "heat": "0.03471803671618759"
     },
     {
         "Stop_ID": "14969",
         "CTA Stop Name": "26th Street & Kedzie",
         "Routes": "60",
-        "LONGITUDE": "-87.705221",
-        "LATITUDE": "41.844565",
+        "start_lng": "-87.705221",
+        "start_lat": "41.844565",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "45746.77777777778",
-        "HeatValue": "0.04320302676488794"
+        "heat": "0.04320302676488794"
     },
     {
         "Stop_ID": "14981",
         "CTA Stop Name": "Roosevelt & California",
         "Routes": "12",
-        "LONGITUDE": "-87.696209",
-        "LATITUDE": "41.866606",
+        "start_lng": "-87.696209",
+        "start_lat": "41.866606",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "39860.142857142855",
-        "HeatValue": "0.03764371836361176"
+        "heat": "0.03764371836361176"
     },
     {
         "Stop_ID": "14982",
         "CTA Stop Name": "Roosevelt & California",
         "Routes": "12",
-        "LONGITUDE": "-87.695645",
-        "LATITUDE": "41.866405",
+        "start_lng": "-87.695645",
+        "start_lat": "41.866405",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "39860.142857142855",
-        "HeatValue": "0.03764371836361176"
+        "heat": "0.03764371836361176"
     },
     {
         "Stop_ID": "15011",
         "CTA Stop Name": "North Ave & Central",
         "Routes": "72",
-        "LONGITUDE": "-87.765465",
-        "LATITUDE": "41.909272",
+        "start_lng": "-87.765465",
+        "start_lat": "41.909272",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "112844.25",
-        "HeatValue": "0.10656954194010836"
+        "heat": "0.10656954194010836"
     },
     {
         "Stop_ID": "15026",
         "CTA Stop Name": "95th Street & Halsted",
         "Routes": "N9,95W,112",
-        "LONGITUDE": "-87.642801",
-        "LATITUDE": "41.721355",
+        "start_lng": "-87.642801",
+        "start_lat": "41.721355",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "90723.0",
-        "HeatValue": "0.08567834474005057"
+        "heat": "0.08567834474005057"
     },
     {
         "Stop_ID": "15136",
         "CTA Stop Name": "Madison & Pulaski",
         "Routes": "20",
-        "LONGITUDE": "-87.725953",
-        "LATITUDE": "41.880833",
+        "start_lng": "-87.725953",
+        "start_lat": "41.880833",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36762.2",
-        "HeatValue": "0.03471803671618759"
+        "heat": "0.03471803671618759"
     },
     {
         "Stop_ID": "15210",
         "CTA Stop Name": "63rd Street & Western",
         "Routes": "63",
-        "LONGITUDE": "-87.683161",
-        "LATITUDE": "41.779085",
+        "start_lng": "-87.683161",
+        "start_lat": "41.779085",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "71582.25",
-        "HeatValue": "0.06760191674402835"
+        "heat": "0.06760191674402835"
     },
     {
         "Stop_ID": "15426",
         "CTA Stop Name": "Soldier Field & Field Museum",
         "Routes": "130,146",
-        "LONGITUDE": "-87.614516",
-        "LATITUDE": "41.865126",
+        "start_lng": "-87.614516",
+        "start_lat": "41.865126",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "8103.434343434344",
-        "HeatValue": "0.007652842622655038"
+        "heat": "0.007652842622655038"
     },
     {
         "Stop_ID": "17309",
         "CTA Stop Name": "111th Street & Western",
         "Routes": "112",
-        "LONGITUDE": "-87.680647",
-        "LATITUDE": "41.691698",
+        "start_lng": "-87.680647",
+        "start_lat": "41.691698",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "21239.5",
-        "HeatValue": "0.020058476936458274"
+        "heat": "0.020058476936458274"
     },
     {
         "Stop_ID": "14488",
         "CTA Stop Name": "Michigan & Superior",
         "Routes": "3,10,26,125,143,146,147,148,151",
-        "LONGITUDE": "-87.624422",
-        "LATITUDE": "41.895823",
+        "start_lng": "-87.624422",
+        "start_lat": "41.895823",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "54490.97195540309",
-        "HeatValue": "0.0514609997510604"
+        "heat": "0.0514609997510604"
     },
     {
         "Stop_ID": "68",
         "CTA Stop Name": "Jackson & Franklin",
         "Routes": "1,7,28,126,130,151,156",
-        "LONGITUDE": "-87.635401",
-        "LATITUDE": "41.878051",
+        "start_lng": "-87.635401",
+        "start_lat": "41.878051",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "97466.20953310317",
-        "HeatValue": "0.09204659789560769"
+        "heat": "0.09204659789560769"
     },
     {
         "Stop_ID": "75",
         "CTA Stop Name": "Michigan & Van Buren",
         "Routes": "1,7,28,126",
-        "LONGITUDE": "-87.62416",
-        "LATITUDE": "41.87669",
+        "start_lng": "-87.62416",
+        "start_lat": "41.87669",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "72524.27937062937",
-        "HeatValue": "0.06849156454196313"
+        "heat": "0.06849156454196313"
     },
     {
         "Stop_ID": "77",
         "CTA Stop Name": "Adams & Wabash",
         "Routes": "1,7,28,126,151",
-        "LONGITUDE": "-87.625884",
-        "LATITUDE": "41.879575",
+        "start_lng": "-87.625884",
+        "start_lat": "41.879575",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "85401.88314421428",
-        "HeatValue": "0.08065310875389377"
+        "heat": "0.08065310875389377"
     },
     {
         "Stop_ID": "80",
         "CTA Stop Name": "Adams & Wells",
         "Routes": "1,7,28,126,130,134,135,136,151,156",
-        "LONGITUDE": "-87.634024",
-        "LATITUDE": "41.879426",
+        "start_lng": "-87.634024",
+        "start_lat": "41.879426",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "104788.40953310317",
-        "HeatValue": "0.09896164673499348"
+        "heat": "0.09896164673499348"
     },
     {
         "Stop_ID": "206",
         "CTA Stop Name": "Harrison & Halsted",
         "Routes": "7,60,755",
-        "LONGITUDE": "-87.64775",
-        "LATITUDE": "41.874441",
+        "start_lng": "-87.64775",
+        "start_lat": "41.874441",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "55830.86868686869",
-        "HeatValue": "0.05272639148275553"
+        "heat": "0.05272639148275553"
     },
     {
         "Stop_ID": "312",
         "CTA Stop Name": "Roosevelt & Canal",
         "Routes": "12,18,N62",
-        "LONGITUDE": "-87.638826",
-        "LATITUDE": "41.867139",
+        "start_lng": "-87.638826",
+        "start_lat": "41.867139",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "49404.892857142855",
-        "HeatValue": "0.046657732240551426"
+        "heat": "0.046657732240551426"
     },
     {
         "Stop_ID": "397",
         "CTA Stop Name": "Madison & Laramie",
         "Routes": "20",
-        "LONGITUDE": "-87.75526",
-        "LATITUDE": "41.88027",
+        "start_lng": "-87.75526",
+        "start_lat": "41.88027",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36762.2",
-        "HeatValue": "0.03471803671618759"
+        "heat": "0.03471803671618759"
     },
     {
         "Stop_ID": "442",
         "CTA Stop Name": "Washington & Jefferson",
         "Routes": "J14,19,20,56",
-        "LONGITUDE": "-87.642848",
-        "LATITUDE": "41.88311",
+        "start_lng": "-87.642848",
+        "start_lat": "41.88311",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "147595.65238095238",
-        "HeatValue": "0.13938859150191135"
+        "heat": "0.13938859150191135"
     },
     {
         "Stop_ID": "449",
         "CTA Stop Name": "Washington & Wabash",
         "Routes": "N4,J14,19,20,56,60,N66,124,147,151,157",
-        "LONGITUDE": "-87.625966",
-        "LATITUDE": "41.883159",
+        "start_lng": "-87.625966",
+        "start_lat": "41.883159",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "218685.02987387351",
-        "HeatValue": "0.20652504193007276"
+        "heat": "0.20652504193007276"
     },
     {
         "Stop_ID": "594",
         "CTA Stop Name": "Fairbanks & Huron",
         "Routes": "3,66,120,121,157",
-        "LONGITUDE": "-87.620252",
-        "LATITUDE": "41.894886",
+        "start_lng": "-87.620252",
+        "start_lat": "41.894886",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "103694.4669117647",
-        "HeatValue": "0.09792853282741909"
+        "heat": "0.09792853282741909"
     },
     {
         "Stop_ID": "597",
         "CTA Stop Name": "Chicago & Mies Van Der Rohe",
         "Routes": "3,26,66,157",
-        "LONGITUDE": "-87.621709",
-        "LATITUDE": "41.896838",
+        "start_lng": "-87.621709",
+        "start_lat": "41.896838",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "54204.466911764706",
-        "HeatValue": "0.05119042582935794"
+        "heat": "0.05119042582935794"
     },
     {
         "Stop_ID": "622",
         "CTA Stop Name": "Chicago & Ashland",
         "Routes": "66",
-        "LONGITUDE": "-87.667079",
-        "LATITUDE": "41.896151",
+        "start_lng": "-87.667079",
+        "start_lat": "41.896151",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "759",
         "CTA Stop Name": "Grand & Streeter",
         "Routes": "2,29,65,66,124",
-        "LONGITUDE": "-87.612125",
-        "LATITUDE": "41.892011",
+        "start_lng": "-87.612125",
+        "start_lat": "41.892011",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "91077.30917366946",
-        "HeatValue": "0.08601295254100748"
+        "heat": "0.08601295254100748"
     },
     {
         "Stop_ID": "765",
         "CTA Stop Name": "Grand & Dearborn",
         "Routes": "65",
-        "LONGITUDE": "-87.629467",
-        "LATITUDE": "41.891714",
+        "start_lng": "-87.629467",
+        "start_lat": "41.891714",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25766.428571428572",
-        "HeatValue": "0.02433368550271426"
+        "heat": "0.02433368550271426"
     },
     {
         "Stop_ID": "1033",
         "CTA Stop Name": "Sheridan & Granville",
         "Routes": "136,147,151",
-        "LONGITUDE": "-87.655598",
-        "LATITUDE": "41.994419",
+        "start_lng": "-87.655598",
+        "start_lat": "41.994419",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "22928.076500857635",
-        "HeatValue": "0.021653160088034265"
+        "heat": "0.021653160088034265"
     },
     {
         "Stop_ID": "1037",
         "CTA Stop Name": "Sheridan & Hollywood",
         "Routes": "136,147,151",
-        "LONGITUDE": "-87.655319",
-        "LATITUDE": "41.985339",
+        "start_lng": "-87.655319",
+        "start_lat": "41.985339",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "22928.076500857635",
-        "HeatValue": "0.021653160088034265"
+        "heat": "0.021653160088034265"
     },
     {
         "Stop_ID": "1039",
         "CTA Stop Name": "Sheridan & Catalpa",
         "Routes": "136,147,151",
-        "LONGITUDE": "-87.655222",
-        "LATITUDE": "41.981684",
+        "start_lng": "-87.655222",
+        "start_lat": "41.981684",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "22928.076500857635",
-        "HeatValue": "0.021653160088034265"
+        "heat": "0.021653160088034265"
     },
     {
         "Stop_ID": "1040",
         "CTA Stop Name": "Sheridan & Balmoral",
         "Routes": "136,147,151",
-        "LONGITUDE": "-87.655155",
-        "LATITUDE": "41.979782",
+        "start_lng": "-87.655155",
+        "start_lat": "41.979782",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "22928.076500857635",
-        "HeatValue": "0.021653160088034265"
+        "heat": "0.021653160088034265"
     },
     {
         "Stop_ID": "1097",
         "CTA Stop Name": "Michigan & Delaware",
         "Routes": "143,146,147,148,151",
-        "LONGITUDE": "-87.624246",
-        "LATITUDE": "41.899345",
+        "start_lng": "-87.624246",
+        "start_lat": "41.899345",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "27829.421955403086",
-        "HeatValue": "0.026281966074880213"
+        "heat": "0.026281966074880213"
     },
     {
         "Stop_ID": "1098",
         "CTA Stop Name": "Michigan & Pearson",
         "Routes": "10,125,143,146,147,100,000",
-        "LONGITUDE": "-87.624234",
-        "LATITUDE": "41.897731",
+        "start_lng": "-87.624234",
+        "start_lat": "41.897731",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "28337.868181818183",
-        "HeatValue": "0.02676214013293132"
+        "heat": "0.02676214013293132"
     },
     {
         "Stop_ID": "1101",
         "CTA Stop Name": "Michigan & Ohio",
         "Routes": "2,3,10,26,143,146,147,148,151,157",
-        "LONGITUDE": "-87.624328",
-        "LATITUDE": "41.892691",
+        "start_lng": "-87.624328",
+        "start_lat": "41.892691",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "51455.399931593565",
-        "HeatValue": "0.048594220804826206"
+        "heat": "0.048594220804826206"
     },
     {
         "Stop_ID": "1113",
         "CTA Stop Name": "State & Van Buren",
         "Routes": "2,10,29,130,146,147,148",
-        "LONGITUDE": "-87.627543",
-        "LATITUDE": "41.876848",
+        "start_lng": "-87.627543",
+        "start_lat": "41.876848",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "48651.62254689755",
-        "HeatValue": "0.045946347549528845"
+        "heat": "0.045946347549528845"
     },
     {
         "Stop_ID": "1115",
         "CTA Stop Name": "State & Adams",
         "Routes": "2,10,29,146,147,148,151",
-        "LONGITUDE": "-87.62761",
-        "LATITUDE": "41.879401",
+        "start_lng": "-87.62761",
+        "start_lat": "41.879401",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "61009.337431593565",
-        "HeatValue": "0.05761691131054027"
+        "heat": "0.05761691131054027"
     },
     {
         "Stop_ID": "1123",
         "CTA Stop Name": "Michigan & Grand",
         "Routes": "2,3,10,26,143,146,147,148,151,157",
-        "LONGITUDE": "-87.624034",
-        "LATITUDE": "41.891769",
+        "start_lng": "-87.624034",
+        "start_lat": "41.891769",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "51455.399931593565",
-        "HeatValue": "0.048594220804826206"
+        "heat": "0.048594220804826206"
     },
     {
         "Stop_ID": "1185",
         "CTA Stop Name": "Sheridan & Berwyn",
         "Routes": "136,147,151",
-        "LONGITUDE": "-87.654932",
-        "LATITUDE": "41.978202",
+        "start_lng": "-87.654932",
+        "start_lat": "41.978202",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "22928.076500857635",
-        "HeatValue": "0.021653160088034265"
+        "heat": "0.021653160088034265"
     },
     {
         "Stop_ID": "1204",
         "CTA Stop Name": "Sheridan & Loyola",
         "Routes": "147,151,155",
-        "LONGITUDE": "-87.660658",
-        "LATITUDE": "42.001702",
+        "start_lng": "-87.660658",
+        "start_lat": "42.001702",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "53406.70983419097",
-        "HeatValue": "0.05043702805909927"
+        "heat": "0.05043702805909927"
     },
     {
         "Stop_ID": "1421",
         "CTA Stop Name": "Wacker (Upper) & Michigan",
         "Routes": "2,6,10,134,135,136,146,148",
-        "LONGITUDE": "-87.625055",
-        "LATITUDE": "41.88836",
+        "start_lng": "-87.625055",
+        "start_lat": "41.88836",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36977.013203463204",
-        "HeatValue": "0.034920905224735975"
+        "heat": "0.034920905224735975"
     },
     {
         "Stop_ID": "1425",
         "CTA Stop Name": "State & Washington",
         "Routes": "2,6,10,29,36,62,146,148",
-        "LONGITUDE": "-87.627972",
-        "LATITUDE": "41.883371",
+        "start_lng": "-87.627972",
+        "start_lat": "41.883371",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "109905.86181457431",
-        "HeatValue": "0.1037945429218771"
+        "heat": "0.1037945429218771"
     },
     {
         "Stop_ID": "1427",
         "CTA Stop Name": "State & Monroe",
         "Routes": "2,6,10,29,36,62,146,148",
-        "LONGITUDE": "-87.627834",
-        "LATITUDE": "41.880856",
+        "start_lng": "-87.627834",
+        "start_lat": "41.880856",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "109905.86181457431",
-        "HeatValue": "0.1037945429218771"
+        "heat": "0.1037945429218771"
     },
     {
         "Stop_ID": "1429",
         "CTA Stop Name": "State & Jackson",
         "Routes": "2,6,10,29,36,62,146,148",
-        "LONGITUDE": "-87.62777",
-        "LATITUDE": "41.878318",
+        "start_lng": "-87.62777",
+        "start_lat": "41.878318",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "109905.86181457431",
-        "HeatValue": "0.1037945429218771"
+        "heat": "0.1037945429218771"
     },
     {
         "Stop_ID": "1430",
         "CTA Stop Name": "State & Van Buren",
         "Routes": "2,6,10,29,36,62,130,146,148",
-        "LONGITUDE": "-87.627764",
-        "LATITUDE": "41.876993",
+        "start_lng": "-87.627764",
+        "start_lat": "41.876993",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "110425.7507034632",
-        "HeatValue": "0.10428552337279633"
+        "heat": "0.10428552337279633"
     },
     {
         "Stop_ID": "1437",
         "CTA Stop Name": "State & Randolph",
         "Routes": "2,10,29,146,148",
-        "LONGITUDE": "-87.627791",
-        "LATITUDE": "41.884351",
+        "start_lng": "-87.627791",
+        "start_lat": "41.884351",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "40763.460930735935",
-        "HeatValue": "0.038496807407395875"
+        "heat": "0.038496807407395875"
     },
     {
         "Stop_ID": "1438",
         "CTA Stop Name": "State & Lake",
         "Routes": "2,10,29,146,148",
-        "LONGITUDE": "-87.627823",
-        "LATITUDE": "41.885601",
+        "start_lng": "-87.627823",
+        "start_lat": "41.885601",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "40763.460930735935",
-        "HeatValue": "0.038496807407395875"
+        "heat": "0.038496807407395875"
     },
     {
         "Stop_ID": "1518",
         "CTA Stop Name": "S Hyde Park & 55th Street",
         "Routes": "6,28,171",
-        "LONGITUDE": "-87.58388",
-        "LATITUDE": "41.795429",
+        "start_lng": "-87.58388",
+        "start_lat": "41.795429",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "47235.62727272727",
-        "HeatValue": "0.04460908873698248"
+        "heat": "0.04460908873698248"
     },
     {
         "Stop_ID": "1523",
         "CTA Stop Name": "E Hyde Park & East End",
         "Routes": "6,28,172",
-        "LONGITUDE": "-87.585707",
-        "LATITUDE": "41.802565",
+        "start_lng": "-87.585707",
+        "start_lat": "41.802565",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "46550.62727272727",
-        "HeatValue": "0.043962178183463145"
+        "heat": "0.043962178183463145"
     },
     {
         "Stop_ID": "1525",
         "CTA Stop Name": "E Hyde Park & Lake Park",
         "Routes": "2,15,172",
-        "LONGITUDE": "-87.588262",
-        "LATITUDE": "41.802527",
+        "start_lng": "-87.588262",
+        "start_lat": "41.802527",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "5377.190476190476",
-        "HeatValue": "0.005078191631140551"
+        "heat": "0.005078191631140551"
     },
     {
         "Stop_ID": "1785",
         "CTA Stop Name": "Clark & Lunt",
         "Routes": "22",
-        "LONGITUDE": "-87.674073",
-        "LATITUDE": "42.00908",
+        "start_lng": "-87.674073",
+        "start_lat": "42.00908",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "53214.545454545456",
-        "HeatValue": "0.05025554898580995"
+        "heat": "0.05025554898580995"
     },
     {
         "Stop_ID": "1880",
         "CTA Stop Name": "Dearborn & Adams",
         "Routes": "22,24,36,62,151",
-        "LONGITUDE": "-87.629248",
-        "LATITUDE": "41.879561",
+        "start_lng": "-87.629248",
+        "start_lat": "41.879561",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "126716.89426781291",
-        "HeatValue": "0.11967079738838235"
+        "heat": "0.11967079738838235"
     },
     {
         "Stop_ID": "1881",
         "CTA Stop Name": "Dearborn & Monroe",
         "Routes": "22,24,36,62,151",
-        "LONGITUDE": "-87.629285",
-        "LATITUDE": "41.880948",
+        "start_lng": "-87.629285",
+        "start_lat": "41.880948",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "126716.89426781291",
-        "HeatValue": "0.11967079738838235"
+        "heat": "0.11967079738838235"
     },
     {
         "Stop_ID": "1882",
         "CTA Stop Name": "Dearborn & Madison",
         "Routes": "22,24,36,62,151",
-        "LONGITUDE": "-87.629294",
-        "LATITUDE": "41.88207",
+        "start_lng": "-87.629294",
+        "start_lat": "41.88207",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "126716.89426781291",
-        "HeatValue": "0.11967079738838235"
+        "heat": "0.11967079738838235"
     },
     {
         "Stop_ID": "1899",
         "CTA Stop Name": "Clark & Division (Red Line)",
         "Routes": "22",
-        "LONGITUDE": "-87.631363",
-        "LATITUDE": "41.903782",
+        "start_lng": "-87.631363",
+        "start_lat": "41.903782",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "53214.545454545456",
-        "HeatValue": "0.05025554898580995"
+        "heat": "0.05025554898580995"
     },
     {
         "Stop_ID": "2059",
         "CTA Stop Name": "Division & Ashland (Blue Line)",
         "Routes": "70",
-        "LONGITUDE": "-87.66729",
-        "LATITUDE": "41.903449",
+        "start_lng": "-87.66729",
+        "start_lat": "41.903449",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "285885.0",
-        "HeatValue": "0.26998835561003665"
+        "heat": "0.26998835561003665"
     },
     {
         "Stop_ID": "2138",
         "CTA Stop Name": "King Drive & 63rd Street (Green Line)",
         "Routes": "3",
-        "LONGITUDE": "-87.615538",
-        "LATITUDE": "41.780437",
+        "start_lng": "-87.615538",
+        "start_lat": "41.780437",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17138.5",
-        "HeatValue": "0.016185513170060034"
+        "heat": "0.016185513170060034"
     },
     {
         "Stop_ID": "2353",
         "CTA Stop Name": "State & Roosevelt",
         "Routes": "29,62",
-        "LONGITUDE": "-87.627333",
-        "LATITUDE": "41.867663",
+        "start_lng": "-87.627333",
+        "start_lat": "41.867663",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "52777.48611111111",
-        "HeatValue": "0.049842792340872855"
+        "heat": "0.049842792340872855"
     },
     {
         "Stop_ID": "2376",
         "CTA Stop Name": "State & Roosevelt",
         "Routes": "29,62",
-        "LONGITUDE": "-87.627536",
-        "LATITUDE": "41.867594",
+        "start_lng": "-87.627536",
+        "start_lat": "41.867594",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "52777.48611111111",
-        "HeatValue": "0.049842792340872855"
+        "heat": "0.049842792340872855"
     },
     {
         "Stop_ID": "2628",
         "CTA Stop Name": "79th Street & Ellis",
         "Routes": "79",
-        "LONGITUDE": "-87.600226",
-        "LATITUDE": "41.751397",
+        "start_lng": "-87.600226",
+        "start_lat": "41.751397",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "86012.1",
-        "HeatValue": "0.08122939448227796"
+        "heat": "0.08122939448227796"
     },
     {
         "Stop_ID": "2642",
         "CTA Stop Name": "79th Street & Lafayette",
         "Routes": "79",
-        "LONGITUDE": "-87.62611",
-        "LATITUDE": "41.751068",
+        "start_lng": "-87.62611",
+        "start_lat": "41.751068",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "86012.1",
-        "HeatValue": "0.08122939448227796"
+        "heat": "0.08122939448227796"
     },
     {
         "Stop_ID": "2816",
         "CTA Stop Name": "95th Street & Michigan",
         "Routes": "N5,34,95E,100,103,106,111,115,119",
-        "LONGITUDE": "-87.620736",
-        "LATITUDE": "41.721676",
+        "start_lng": "-87.620736",
+        "start_lat": "41.721676",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "332056.0",
-        "HeatValue": "0.3135920157071771"
+        "heat": "0.3135920157071771"
     },
     {
         "Stop_ID": "2909",
         "CTA Stop Name": "111th Street & Michigan",
         "Routes": "111",
-        "LONGITUDE": "-87.621294",
-        "LATITUDE": "41.692674",
+        "start_lng": "-87.621294",
+        "start_lat": "41.692674",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "67996.0",
-        "HeatValue": "0.06421508028773826"
+        "heat": "0.06421508028773826"
     },
     {
         "Stop_ID": "3165",
         "CTA Stop Name": "Kedzie & Lake (Green Line)",
         "Routes": "52",
-        "LONGITUDE": "-87.706107",
-        "LATITUDE": "41.884216",
+        "start_lng": "-87.706107",
+        "start_lat": "41.884216",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "80110.75",
-        "HeatValue": "0.07565618923408624"
+        "heat": "0.07565618923408624"
     },
     {
         "Stop_ID": "3246",
         "CTA Stop Name": "63rd Street & Ashland (Green Line)",
         "Routes": "63",
-        "LONGITUDE": "-87.664599",
-        "LATITUDE": "41.779529",
+        "start_lng": "-87.664599",
+        "start_lat": "41.779529",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "71582.25",
-        "HeatValue": "0.06760191674402835"
+        "heat": "0.06760191674402835"
     },
     {
         "Stop_ID": "3868",
         "CTA Stop Name": "Laramie & Lake (Green Line)",
         "Routes": "57",
-        "LONGITUDE": "-87.755267",
-        "LATITUDE": "41.887097",
+        "start_lng": "-87.755267",
+        "start_lat": "41.887097",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34698.0",
-        "HeatValue": "0.03276861662191809"
+        "heat": "0.03276861662191809"
     },
     {
         "Stop_ID": "4184",
         "CTA Stop Name": "California & 26th Street",
         "Routes": "94",
-        "LONGITUDE": "-87.695137",
-        "LATITUDE": "41.84457",
+        "start_lng": "-87.695137",
+        "start_lat": "41.84457",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36055.57142857143",
-        "HeatValue": "0.03405070024863221"
+        "heat": "0.03405070024863221"
     },
     {
         "Stop_ID": "4219",
         "CTA Stop Name": "Sacrmnto & Chicago",
         "Routes": "94",
-        "LONGITUDE": "-87.70246",
-        "LATITUDE": "41.895341",
+        "start_lng": "-87.70246",
+        "start_lat": "41.895341",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36055.57142857143",
-        "HeatValue": "0.03405070024863221"
+        "heat": "0.03405070024863221"
     },
     {
         "Stop_ID": "4725",
         "CTA Stop Name": "Congress & Michigan",
         "Routes": "7,126,143,147",
-        "LONGITUDE": "-87.624024",
-        "LATITUDE": "41.875841",
+        "start_lng": "-87.624024",
+        "start_lat": "41.875841",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "47312.61363636364",
-        "HeatValue": "0.04468179427145466"
+        "heat": "0.04468179427145466"
     },
     {
         "Stop_ID": "4732",
         "CTA Stop Name": "Adams & State",
         "Routes": "1,7,28,126,130,151",
-        "LONGITUDE": "-87.628105",
-        "LATITUDE": "41.879509",
+        "start_lng": "-87.628105",
+        "start_lat": "41.879509",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "85921.77203310317",
-        "HeatValue": "0.08114408920481299"
+        "heat": "0.08114408920481299"
     },
     {
         "Stop_ID": "4973",
         "CTA Stop Name": "LaSalle & Madison",
         "Routes": "134,135,136,156",
-        "LONGITUDE": "-87.632265",
-        "LATITUDE": "41.881838",
+        "start_lng": "-87.632265",
+        "start_lat": "41.881838",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "18866.6375",
-        "HeatValue": "0.0178175575301805"
+        "heat": "0.0178175575301805"
     },
     {
         "Stop_ID": "5040",
         "CTA Stop Name": "Lake Park & 47th Street Terminal",
         "Routes": "2,6,28",
-        "LONGITUDE": "-87.591638",
-        "LATITUDE": "41.809135",
+        "start_lng": "-87.591638",
+        "start_lat": "41.809135",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "43007.81774891775",
-        "HeatValue": "0.04061636669432272"
+        "heat": "0.04061636669432272"
     },
     {
         "Stop_ID": "5201",
         "CTA Stop Name": "Stony Island & 63rd Street",
         "Routes": "6,15,28",
-        "LONGITUDE": "-87.586561",
-        "LATITUDE": "41.780402",
+        "start_lng": "-87.586561",
+        "start_lat": "41.780402",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "42090.62727272727",
-        "HeatValue": "0.039750176623322656"
+        "heat": "0.039750176623322656"
     },
     {
         "Stop_ID": "5217",
         "CTA Stop Name": "Jeffery & 75th Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.576222",
-        "LATITUDE": "41.758627",
+        "start_lng": "-87.576222",
+        "start_lat": "41.758627",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5229",
         "CTA Stop Name": "Jeffery & 87th Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.575805",
-        "LATITUDE": "41.736873",
+        "start_lng": "-87.575805",
+        "start_lat": "41.736873",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5261",
         "CTA Stop Name": "103rd Street & Luella",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.568215",
-        "LATITUDE": "41.70797",
+        "start_lng": "-87.568215",
+        "start_lat": "41.70797",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5264",
         "CTA Stop Name": "103rd Street & Bensley",
         "Routes": "J14",
-        "LONGITUDE": "-87.563424",
-        "LATITUDE": "41.708063",
+        "start_lng": "-87.563424",
+        "start_lat": "41.708063",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5269",
         "CTA Stop Name": "100th Street & Torrence",
         "Routes": "J14,100",
-        "LONGITUDE": "-87.560088",
-        "LATITUDE": "41.713643",
+        "start_lng": "-87.560088",
+        "start_lat": "41.713643",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "10896.285714285714",
-        "HeatValue": "0.010290397405450211"
+        "heat": "0.010290397405450211"
     },
     {
         "Stop_ID": "5273",
         "CTA Stop Name": "100th Street & Yates",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.56498",
-        "LATITUDE": "41.713577",
+        "start_lng": "-87.56498",
+        "start_lat": "41.713577",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5277",
         "CTA Stop Name": "100th Street & Paxton",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.569495",
-        "LATITUDE": "41.713512",
+        "start_lng": "-87.569495",
+        "start_lat": "41.713512",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5280",
         "CTA Stop Name": "Van Vlissingen & 99th Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.574066",
-        "LATITUDE": "41.715381",
+        "start_lng": "-87.574066",
+        "start_lat": "41.715381",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5284",
         "CTA Stop Name": "Jeffery & 95th Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.575275",
-        "LATITUDE": "41.722349",
+        "start_lng": "-87.575275",
+        "start_lat": "41.722349",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5285",
         "CTA Stop Name": "Jeffery & 93rd Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.575379",
-        "LATITUDE": "41.726287",
+        "start_lng": "-87.575379",
+        "start_lat": "41.726287",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5287",
         "CTA Stop Name": "Jeffery & 91st Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.57545",
-        "LATITUDE": "41.729853",
+        "start_lng": "-87.57545",
+        "start_lat": "41.729853",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5299",
         "CTA Stop Name": "Jeffery & 79th Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.575902",
-        "LATITUDE": "41.7518",
+        "start_lng": "-87.575902",
+        "start_lat": "41.7518",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5303",
         "CTA Stop Name": "Jeffery & 75th Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.576075",
-        "LATITUDE": "41.759073",
+        "start_lng": "-87.576075",
+        "start_lat": "41.759073",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5327",
         "CTA Stop Name": "Jeffery & 67th Street",
         "Routes": "J14",
-        "LONGITUDE": "-87.576383",
-        "LATITUDE": "41.773326",
+        "start_lng": "-87.576383",
+        "start_lat": "41.773326",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "5518",
         "CTA Stop Name": "Jefferson & Lake",
         "Routes": "56",
-        "LONGITUDE": "-87.642684",
-        "LATITUDE": "41.885611",
+        "start_lng": "-87.642684",
+        "start_lat": "41.885611",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "103746.5",
-        "HeatValue": "0.09797767261415138"
+        "heat": "0.09797767261415138"
     },
     {
         "Stop_ID": "5638",
         "CTA Stop Name": "Irving Park & Pulaski",
         "Routes": "80",
-        "LONGITUDE": "-87.727787",
-        "LATITUDE": "41.953552",
+        "start_lng": "-87.727787",
+        "start_lat": "41.953552",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "33498.1",
-        "HeatValue": "0.03163543709904531"
+        "heat": "0.03163543709904531"
     },
     {
         "Stop_ID": "6046",
         "CTA Stop Name": "Ashland & Roosevelt",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.666552",
-        "LATITUDE": "41.867109",
+        "start_lng": "-87.666552",
+        "start_lat": "41.867109",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6252",
         "CTA Stop Name": "Ashland & Milwaukee (Blue Line)",
         "Routes": "9,X9",
-        "LONGITUDE": "-87.667365",
-        "LATITUDE": "41.903734",
+        "start_lng": "-87.667365",
+        "start_lat": "41.903734",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "63970.230769230766",
-        "HeatValue": "0.06041316408128858"
+        "heat": "0.06041316408128858"
     },
     {
         "Stop_ID": "6311",
         "CTA Stop Name": "26th Street & Lawndale",
         "Routes": "60",
-        "LONGITUDE": "-87.717333",
-        "LATITUDE": "41.844289",
+        "start_lng": "-87.717333",
+        "start_lat": "41.844289",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "45746.77777777778",
-        "HeatValue": "0.04320302676488794"
+        "heat": "0.04320302676488794"
     },
     {
         "Stop_ID": "6381",
         "CTA Stop Name": "Blue Island & Ashland/Cermak",
         "Routes": "60",
-        "LONGITUDE": "-87.666565",
-        "LATITUDE": "41.852161",
+        "start_lng": "-87.666565",
+        "start_lat": "41.852161",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "45746.77777777778",
-        "HeatValue": "0.04320302676488794"
+        "heat": "0.04320302676488794"
     },
     {
         "Stop_ID": "7376",
         "CTA Stop Name": "92nd Street & Commercial",
         "Routes": "30,95E",
-        "LONGITUDE": "-87.551053",
-        "LATITUDE": "41.728311",
+        "start_lng": "-87.551053",
+        "start_lat": "41.728311",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "62150.25",
-        "HeatValue": "0.058694383399803"
+        "heat": "0.058694383399803"
     },
     {
         "Stop_ID": "7903",
         "CTA Stop Name": "Chicago & Orleans",
         "Routes": "66",
-        "LONGITUDE": "-87.637411",
-        "LATITUDE": "41.896644",
+        "start_lng": "-87.637411",
+        "start_lat": "41.896644",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "8214",
         "CTA Stop Name": "Western & Cortland (Blue Line)",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.687475",
-        "LATITUDE": "41.915794",
+        "start_lng": "-87.687475",
+        "start_lat": "41.915794",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8221",
         "CTA Stop Name": "Western & Division",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.687113",
-        "LATITUDE": "41.9031",
+        "start_lng": "-87.687113",
+        "start_lat": "41.9031",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8225",
         "CTA Stop Name": "Western & Chicago",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.686991",
-        "LATITUDE": "41.895885",
+        "start_lng": "-87.686991",
+        "start_lat": "41.895885",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8379",
         "CTA Stop Name": "Western & Madison",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.6863",
-        "LATITUDE": "41.881051",
+        "start_lng": "-87.6863",
+        "start_lat": "41.881051",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8905",
         "CTA Stop Name": "Damen & Polk",
         "Routes": "50, 755",
-        "LONGITUDE": "-87.676278",
-        "LATITUDE": "41.87139",
+        "start_lng": "-87.676278",
+        "start_lat": "41.87139",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "214526.0",
-        "HeatValue": "0.20259727504275749"
+        "heat": "0.20259727504275749"
     },
     {
         "Stop_ID": "9454",
         "CTA Stop Name": "87th Street & Commercial",
         "Routes": "87",
-        "LONGITUDE": "-87.551726",
-        "LATITUDE": "41.737443",
+        "start_lng": "-87.551726",
+        "start_lat": "41.737443",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "57613.42857142857",
-        "HeatValue": "0.05440983206903581"
+        "heat": "0.05440983206903581"
     },
     {
         "Stop_ID": "10566",
         "CTA Stop Name": "55th Street & Hyde Park Blvd",
         "Routes": "55,171",
-        "LONGITUDE": "-87.584154",
-        "LATITUDE": "41.795284",
+        "start_lng": "-87.584154",
+        "start_lat": "41.795284",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "37569.545454545456",
-        "HeatValue": "0.0354804897014158"
+        "heat": "0.0354804897014158"
     },
     {
         "Stop_ID": "11040",
         "CTA Stop Name": "Diversey & Clark/Broadway",
         "Routes": "76",
-        "LONGITUDE": "-87.64532",
-        "LATITUDE": "41.932849",
+        "start_lng": "-87.64532",
+        "start_lat": "41.932849",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "56641.0",
-        "HeatValue": "0.053491475418815555"
+        "heat": "0.053491475418815555"
     },
     {
         "Stop_ID": "11174",
         "CTA Stop Name": "Homan & Madison",
         "Routes": "82",
-        "LONGITUDE": "-87.711101",
-        "LATITUDE": "41.881099",
+        "start_lng": "-87.711101",
+        "start_lat": "41.881099",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "83624.83333333333",
-        "HeatValue": "0.07897487185347271"
+        "heat": "0.07897487185347271"
     },
     {
         "Stop_ID": "14428",
         "CTA Stop Name": "North Ave & Clybourn/Halsted (Red Line)",
         "Routes": "N9,72",
-        "LONGITUDE": "-87.648504",
-        "LATITUDE": "41.910989",
+        "start_lng": "-87.648504",
+        "start_lat": "41.910989",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "112844.25",
-        "HeatValue": "0.10656954194010836"
+        "heat": "0.10656954194010836"
     },
     {
         "Stop_ID": "14467",
         "CTA Stop Name": "Madison & Halsted",
         "Routes": "20",
-        "LONGITUDE": "-87.647558",
-        "LATITUDE": "41.881853",
+        "start_lng": "-87.647558",
+        "start_lat": "41.881853",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36762.2",
-        "HeatValue": "0.03471803671618759"
+        "heat": "0.03471803671618759"
     },
     {
         "Stop_ID": "14508",
         "CTA Stop Name": "Dearborn & Jackson",
         "Routes": "22,24,36,62",
-        "LONGITUDE": "-87.629201",
-        "LATITUDE": "41.878035",
+        "start_lng": "-87.629201",
+        "start_lat": "41.878035",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "113839.290494228",
-        "HeatValue": "0.1075092531764517"
+        "heat": "0.1075092531764517"
     },
     {
         "Stop_ID": "14546",
         "CTA Stop Name": "Western & Madison",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.686556",
-        "LATITUDE": "41.881005",
+        "start_lng": "-87.686556",
+        "start_lat": "41.881005",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "14554",
         "CTA Stop Name": "Western & Roosevelt",
         "Routes": "49,X49,157",
-        "LONGITUDE": "-87.686157",
-        "LATITUDE": "41.866296",
+        "start_lng": "-87.686157",
+        "start_lat": "41.866296",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "38972.77497412008",
-        "HeatValue": "0.03680569259955111"
+        "heat": "0.03680569259955111"
     },
     {
         "Stop_ID": "14766",
         "CTA Stop Name": "Madison & Homan",
         "Routes": "20",
-        "LONGITUDE": "-87.711238",
-        "LATITUDE": "41.880994",
+        "start_lng": "-87.711238",
+        "start_lat": "41.880994",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36762.2",
-        "HeatValue": "0.03471803671618759"
+        "heat": "0.03471803671618759"
     },
     {
         "Stop_ID": "14951",
         "CTA Stop Name": "Michigan & 111th Street",
         "Routes": "34,119",
-        "LONGITUDE": "-87.62112",
-        "LATITUDE": "41.692401",
+        "start_lng": "-87.62112",
+        "start_lat": "41.692401",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "87867.25",
-        "HeatValue": "0.08298138880835298"
+        "heat": "0.08298138880835298"
     },
     {
         "Stop_ID": "15025",
         "CTA Stop Name": "87th Street & Cottage Grove",
         "Routes": "87",
-        "LONGITUDE": "-87.605208",
-        "LATITUDE": "41.736711",
+        "start_lng": "-87.605208",
+        "start_lat": "41.736711",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "57613.42857142857",
-        "HeatValue": "0.05440983206903581"
+        "heat": "0.05440983206903581"
     },
     {
         "Stop_ID": "15160",
         "CTA Stop Name": "95th Street & Wentworth",
         "Routes": "N9,95W,108,112",
-        "LONGITUDE": "-87.629179",
-        "LATITUDE": "41.721755",
+        "start_lng": "-87.629179",
+        "start_lat": "41.721755",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "110735.0",
-        "HeatValue": "0.10457757685250156"
+        "heat": "0.10457757685250156"
     },
     {
         "Stop_ID": "15495",
         "CTA Stop Name": "Jeffery & 87th Street",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.575626",
-        "LATITUDE": "41.736961",
+        "start_lng": "-87.575626",
+        "start_lat": "41.736961",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "15537",
         "CTA Stop Name": "King Drive & 63rd Street (Green Line)",
         "Routes": "3",
-        "LONGITUDE": "-87.615701",
-        "LATITUDE": "41.780383",
+        "start_lng": "-87.615701",
+        "start_lat": "41.780383",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17138.5",
-        "HeatValue": "0.016185513170060034"
+        "heat": "0.016185513170060034"
     },
     {
         "Stop_ID": "15867",
         "CTA Stop Name": "State & 79th Street",
         "Routes": "29,75",
-        "LONGITUDE": "-87.624487",
-        "LATITUDE": "41.751457",
+        "start_lng": "-87.624487",
+        "start_lat": "41.751457",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "126138.375",
-        "HeatValue": "0.11912444670259775"
+        "heat": "0.11912444670259775"
     },
     {
         "Stop_ID": "15904",
         "CTA Stop Name": "LaSalle & Wacker/Lake",
         "Routes": "134,135,136,156",
-        "LONGITUDE": "-87.6323",
-        "LATITUDE": "41.886302",
+        "start_lng": "-87.6323",
+        "start_lat": "41.886302",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "18866.6375",
-        "HeatValue": "0.0178175575301805"
+        "heat": "0.0178175575301805"
     },
     {
         "Stop_ID": "17564",
         "CTA Stop Name": "Jeffery & 71st Street",
         "Routes": "N5,J14,15",
-        "LONGITUDE": "-87.576383",
-        "LATITUDE": "41.766336",
+        "start_lng": "-87.576383",
+        "start_lat": "41.766336",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "17706",
         "CTA Stop Name": "100th Street & Paxton",
         "Routes": "J14,15",
-        "LONGITUDE": "-87.569633",
-        "LATITUDE": "41.713395",
+        "start_lng": "-87.569633",
+        "start_lat": "41.713395",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "601",
         "CTA Stop Name": "Chicago & State (Red Line)",
         "Routes": "66",
-        "LONGITUDE": "-87.628022",
-        "LATITUDE": "41.896741",
+        "start_lng": "-87.628022",
+        "start_lat": "41.896741",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32604.529411764706",
-        "HeatValue": "0.030791553531389994"
+        "heat": "0.030791553531389994"
     },
     {
         "Stop_ID": "949",
         "CTA Stop Name": "North Ave & Western",
         "Routes": "72",
-        "LONGITUDE": "-87.687029",
-        "LATITUDE": "41.91039",
+        "start_lng": "-87.687029",
+        "start_lat": "41.91039",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "112844.25",
-        "HeatValue": "0.10656954194010836"
+        "heat": "0.10656954194010836"
     },
     {
         "Stop_ID": "1062",
         "CTA Stop Name": "Lake Shore & Waveland",
         "Routes": "135,146,151,152",
-        "LONGITUDE": "-87.644544",
-        "LATITUDE": "41.950278",
+        "start_lng": "-87.644544",
+        "start_lat": "41.950278",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "77170.34922813036",
-        "HeatValue": "0.07287928953934336"
+        "heat": "0.07287928953934336"
     },
     {
         "Stop_ID": "1073",
         "CTA Stop Name": "Sheridan & Barry",
         "Routes": "134,143,151,156",
-        "LONGITUDE": "-87.639535",
-        "LATITUDE": "41.937565",
+        "start_lng": "-87.639535",
+        "start_lat": "41.937565",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "24422.041273584906",
-        "HeatValue": "0.02306405290272534"
+        "heat": "0.02306405290272534"
     },
     {
         "Stop_ID": "1075",
         "CTA Stop Name": "Sheridan & Oakdale",
         "Routes": "134,143,151,156",
-        "LONGITUDE": "-87.639465",
-        "LATITUDE": "41.935383",
+        "start_lng": "-87.639465",
+        "start_lat": "41.935383",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "24422.041273584906",
-        "HeatValue": "0.02306405290272534"
+        "heat": "0.02306405290272534"
     },
     {
         "Stop_ID": "1076",
         "CTA Stop Name": "Sheridan & Surf",
         "Routes": "134,143,151,156",
-        "LONGITUDE": "-87.639426",
-        "LATITUDE": "41.934186",
+        "start_lng": "-87.639426",
+        "start_lat": "41.934186",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "24422.041273584906",
-        "HeatValue": "0.02306405290272534"
+        "heat": "0.02306405290272534"
     },
     {
         "Stop_ID": "1079",
         "CTA Stop Name": "Stockton & Roslyn",
         "Routes": "134,143,151,156",
-        "LONGITUDE": "-87.639002",
-        "LATITUDE": "41.928292",
+        "start_lng": "-87.639002",
+        "start_lat": "41.928292",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "24422.041273584906",
-        "HeatValue": "0.02306405290272534"
+        "heat": "0.02306405290272534"
     },
     {
         "Stop_ID": "1080",
         "CTA Stop Name": "Stockton & Arlington",
         "Routes": "134,143,151,156",
-        "LONGITUDE": "-87.637775",
-        "LATITUDE": "41.926488",
+        "start_lng": "-87.637775",
+        "start_lat": "41.926488",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "24422.041273584906",
-        "HeatValue": "0.02306405290272534"
+        "heat": "0.02306405290272534"
     },
     {
         "Stop_ID": "1148",
         "CTA Stop Name": "Sheridan & Diversey",
         "Routes": "77,134,143,151,156",
-        "LONGITUDE": "-87.639174",
-        "LATITUDE": "41.933109",
+        "start_lng": "-87.639174",
+        "start_lat": "41.933109",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "113256.54127358491",
-        "HeatValue": "0.10695890774449669"
+        "heat": "0.10695890774449669"
     },
     {
         "Stop_ID": "1415",
         "CTA Stop Name": "LaSalle & Division",
         "Routes": "156",
-        "LONGITUDE": "-87.633052",
-        "LATITUDE": "41.903652",
+        "start_lng": "-87.633052",
+        "start_lat": "41.903652",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "11544.4375",
-        "HeatValue": "0.0109025086907947"
+        "heat": "0.0109025086907947"
     },
     {
         "Stop_ID": "1431",
         "CTA Stop Name": "State & Harrison/Congress",
         "Routes": "2,6,10,29,62,130,146,148",
-        "LONGITUDE": "-87.627696",
-        "LATITUDE": "41.874997",
+        "start_lng": "-87.627696",
+        "start_lat": "41.874997",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "82952.1882034632",
-        "HeatValue": "0.07833962917714224"
+        "heat": "0.07833962917714224"
     },
     {
         "Stop_ID": "1574",
         "CTA Stop Name": "Michigan & Cullerton",
         "Routes": "1,3,4",
-        "LONGITUDE": "-87.62377",
-        "LATITUDE": "41.85571",
+        "start_lng": "-87.62377",
+        "start_lat": "41.85571",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "52695.5",
-        "HeatValue": "0.049765365070041055"
+        "heat": "0.049765365070041055"
     },
     {
         "Stop_ID": "1762",
         "CTA Stop Name": "Devon & Clark",
         "Routes": "36,151,155",
-        "LONGITUDE": "-87.670371",
-        "LATITUDE": "41.998148",
+        "start_lng": "-87.670371",
+        "start_lat": "41.998148",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "73511.99960691825",
-        "HeatValue": "0.06942436256353961"
+        "heat": "0.06942436256353961"
     },
     {
         "Stop_ID": "1792",
         "CTA Stop Name": "Clark & Devon",
         "Routes": "22",
-        "LONGITUDE": "-87.670773",
-        "LATITUDE": "41.998181",
+        "start_lng": "-87.670773",
+        "start_lat": "41.998181",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "53214.545454545456",
-        "HeatValue": "0.05025554898580995"
+        "heat": "0.05025554898580995"
     },
     {
         "Stop_ID": "1838",
         "CTA Stop Name": "Clark & Fullerton",
         "Routes": "22,36",
-        "LONGITUDE": "-87.640659",
-        "LATITUDE": "41.925642",
+        "start_lng": "-87.640659",
+        "start_lat": "41.925642",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "80688.10795454546",
-        "HeatValue": "0.07620144318146403"
+        "heat": "0.07620144318146403"
     },
     {
         "Stop_ID": "1884",
         "CTA Stop Name": "Dearborn & Randolph",
         "Routes": "22,24,36,62",
-        "LONGITUDE": "-87.629387",
-        "LATITUDE": "41.884708",
+        "start_lng": "-87.629387",
+        "start_lat": "41.884708",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "113839.290494228",
-        "HeatValue": "0.1075092531764517"
+        "heat": "0.1075092531764517"
     },
     {
         "Stop_ID": "1885",
         "CTA Stop Name": "Dearborn & Wacker/Lake",
         "Routes": "22,36,62",
-        "LONGITUDE": "-87.629396",
-        "LATITUDE": "41.886184",
+        "start_lng": "-87.629396",
+        "start_lat": "41.886184",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "102311.71906565657",
-        "HeatValue": "0.09662267271865488"
+        "heat": "0.09662267271865488"
     },
     {
         "Stop_ID": "1903",
         "CTA Stop Name": "Clark & North Ave",
         "Routes": "22,36",
-        "LONGITUDE": "-87.63158",
-        "LATITUDE": "41.911104",
+        "start_lng": "-87.63158",
+        "start_lat": "41.911104",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "80688.10795454546",
-        "HeatValue": "0.07620144318146403"
+        "heat": "0.07620144318146403"
     },
     {
         "Stop_ID": "2113",
         "CTA Stop Name": "King Drive & 87th Street",
         "Routes": "3",
-        "LONGITUDE": "-87.614462",
-        "LATITUDE": "41.736682",
+        "start_lng": "-87.614462",
+        "start_lat": "41.736682",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17138.5",
-        "HeatValue": "0.016185513170060034"
+        "heat": "0.016185513170060034"
     },
     {
         "Stop_ID": "2125",
         "CTA Stop Name": "King Drive & 75th Street",
         "Routes": "3",
-        "LONGITUDE": "-87.615035",
-        "LATITUDE": "41.758598",
+        "start_lng": "-87.615035",
+        "start_lat": "41.758598",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17138.5",
-        "HeatValue": "0.016185513170060034"
+        "heat": "0.016185513170060034"
     },
     {
         "Stop_ID": "2129",
         "CTA Stop Name": "King Drive & 71st Street",
         "Routes": "3",
-        "LONGITUDE": "-87.615132",
-        "LATITUDE": "41.765832",
+        "start_lng": "-87.615132",
+        "start_lat": "41.765832",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17138.5",
-        "HeatValue": "0.016185513170060034"
+        "heat": "0.016185513170060034"
     },
     {
         "Stop_ID": "2464",
         "CTA Stop Name": "Cottage Grove & 93rd Street",
         "Routes": "4,N5,95E",
-        "LONGITUDE": "-87.604434",
-        "LATITUDE": "41.725524",
+        "start_lng": "-87.604434",
+        "start_lat": "41.725524",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "65243.21153846154",
-        "HeatValue": "0.061615360714927334"
+        "heat": "0.061615360714927334"
     },
     {
         "Stop_ID": "2507",
         "CTA Stop Name": "Cottage Grove & 51st Street",
         "Routes": "4",
-        "LONGITUDE": "-87.606298",
-        "LATITUDE": "41.802477",
+        "start_lng": "-87.606298",
+        "start_lat": "41.802477",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25022.46153846154",
-        "HeatValue": "0.02363108677994515"
+        "heat": "0.02363108677994515"
     },
     {
         "Stop_ID": "2553",
         "CTA Stop Name": "Cottage Grove & 51st Street",
         "Routes": "4",
-        "LONGITUDE": "-87.60653",
-        "LATITUDE": "41.802335",
+        "start_lng": "-87.60653",
+        "start_lat": "41.802335",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25022.46153846154",
-        "HeatValue": "0.02363108677994515"
+        "heat": "0.02363108677994515"
     },
     {
         "Stop_ID": "2630",
         "CTA Stop Name": "79th Street & Cottage Grove",
         "Routes": "79",
-        "LONGITUDE": "-87.605052",
-        "LATITUDE": "41.751357",
+        "start_lng": "-87.605052",
+        "start_lat": "41.751357",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "86012.1",
-        "HeatValue": "0.08122939448227796"
+        "heat": "0.08122939448227796"
     },
     {
         "Stop_ID": "2646",
         "CTA Stop Name": "79th Street & Vincennes",
         "Routes": "8A,24,79",
-        "LONGITUDE": "-87.633955",
-        "LATITUDE": "41.750852",
+        "start_lng": "-87.633955",
+        "start_lat": "41.750852",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "127338.67142857143",
-        "HeatValue": "0.1202580006106188"
+        "heat": "0.1202580006106188"
     },
     {
         "Stop_ID": "2728",
         "CTA Stop Name": "79th Street & Pulaski",
         "Routes": "79,169",
-        "LONGITUDE": "-87.7215",
-        "LATITUDE": "41.749396",
+        "start_lng": "-87.7215",
+        "start_lat": "41.749396",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "103498.1",
-        "HeatValue": "0.09774308490394087"
+        "heat": "0.09774308490394087"
     },
     {
         "Stop_ID": "3255",
         "CTA Stop Name": "63rd Street & Western",
         "Routes": "63",
-        "LONGITUDE": "-87.683375",
-        "LATITUDE": "41.779295",
+        "start_lng": "-87.683375",
+        "start_lat": "41.779295",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "71582.25",
-        "HeatValue": "0.06760191674402835"
+        "heat": "0.06760191674402835"
     },
     {
         "Stop_ID": "3395",
         "CTA Stop Name": "63rd Street & Kedzie",
         "Routes": "63",
-        "LONGITUDE": "-87.703271",
-        "LATITUDE": "41.778894",
+        "start_lng": "-87.703271",
+        "start_lat": "41.778894",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "71582.25",
-        "HeatValue": "0.06760191674402835"
+        "heat": "0.06760191674402835"
     },
     {
         "Stop_ID": "4864",
         "CTA Stop Name": "Marine Drive & Bittersweet",
         "Routes": "136,146",
-        "LONGITUDE": "-87.645552",
-        "LATITUDE": "41.95564",
+        "start_lng": "-87.645552",
+        "start_lat": "41.95564",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "10265.745454545455",
-        "HeatValue": "0.009694918356625691"
+        "heat": "0.009694918356625691"
     },
     {
         "Stop_ID": "5311",
         "CTA Stop Name": "67th Street & Jeffery",
         "Routes": "N5,6,15,67",
-        "LONGITUDE": "-87.576801",
-        "LATITUDE": "41.773524",
+        "start_lng": "-87.576801",
+        "start_lat": "41.773524",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "66171.72727272726",
-        "HeatValue": "0.06249224630267223"
+        "heat": "0.06249224630267223"
     },
     {
         "Stop_ID": "5682",
         "CTA Stop Name": "Irving Park & Ashland",
         "Routes": "80",
-        "LONGITUDE": "-87.668883",
-        "LATITUDE": "41.954364",
+        "start_lng": "-87.668883",
+        "start_lat": "41.954364",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "33498.1",
-        "HeatValue": "0.03163543709904531"
+        "heat": "0.03163543709904531"
     },
     {
         "Stop_ID": "7121",
         "CTA Stop Name": "Stony Island & 75th Street",
         "Routes": "28",
-        "LONGITUDE": "-87.58561",
-        "LATITUDE": "41.758602",
+        "start_lng": "-87.58561",
+        "start_lat": "41.758602",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "22045.4",
-        "HeatValue": "0.02081956484168635"
+        "heat": "0.02081956484168635"
     },
     {
         "Stop_ID": "7409",
         "CTA Stop Name": "69th Street & King Drive",
         "Routes": "N5,30,67",
-        "LONGITUDE": "-87.615229",
-        "LATITUDE": "41.7694",
+        "start_lng": "-87.615229",
+        "start_lat": "41.7694",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "68056.0",
-        "HeatValue": "0.06427174398585674"
+        "heat": "0.06427174398585674"
     },
     {
         "Stop_ID": "8091",
         "CTA Stop Name": "47th Street & Western Avenue",
         "Routes": "47,94",
-        "LONGITUDE": "-87.684687",
-        "LATITUDE": "41.808493",
+        "start_lng": "-87.684687",
+        "start_lat": "41.808493",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "110323.57142857142",
-        "HeatValue": "0.10418902577968911"
+        "heat": "0.10418902577968911"
     },
     {
         "Stop_ID": "8195",
         "CTA Stop Name": "Western & Addison",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.688394",
-        "LATITUDE": "41.946379",
+        "start_lng": "-87.688394",
+        "start_lat": "41.946379",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8199",
         "CTA Stop Name": "Western & Belmont",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.688217",
-        "LATITUDE": "41.939562",
+        "start_lng": "-87.688217",
+        "start_lat": "41.939562",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "8391",
         "CTA Stop Name": "Western & Division",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.686968",
-        "LATITUDE": "41.902935",
+        "start_lng": "-87.686968",
+        "start_lat": "41.902935",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "9236",
         "CTA Stop Name": "Belmont & Harlem",
         "Routes": "77",
-        "LONGITUDE": "-87.806953",
-        "LATITUDE": "41.937925",
+        "start_lng": "-87.806953",
+        "start_lat": "41.937925",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "88834.5",
-        "HeatValue": "0.08389485484177135"
+        "heat": "0.08389485484177135"
     },
     {
         "Stop_ID": "10575",
         "CTA Stop Name": "55th Street & Ellis",
         "Routes": "55",
-        "LONGITUDE": "-87.601022",
-        "LATITUDE": "41.795112",
+        "start_lng": "-87.601022",
+        "start_lat": "41.795112",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32424.545454545456",
-        "HeatValue": "0.030621577587755973"
+        "heat": "0.030621577587755973"
     },
     {
         "Stop_ID": "10792",
         "CTA Stop Name": "71st Street & Cottage Grove/S. Chicago",
         "Routes": "71",
-        "LONGITUDE": "-87.60473",
-        "LATITUDE": "41.765748",
+        "start_lng": "-87.60473",
+        "start_lat": "41.765748",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "99719.0",
-        "HeatValue": "0.09417412187794828"
+        "heat": "0.09417412187794828"
     },
     {
         "Stop_ID": "11037",
         "CTA Stop Name": "Diversey & Sheridan/Lakeview",
         "Routes": "76",
-        "LONGITUDE": "-87.63963",
-        "LATITUDE": "41.932961",
+        "start_lng": "-87.63963",
+        "start_lat": "41.932961",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "56641.0",
-        "HeatValue": "0.053491475418815555"
+        "heat": "0.053491475418815555"
     },
     {
         "Stop_ID": "11071",
         "CTA Stop Name": "Diversey & Milwaukee/Kimball",
         "Routes": "76",
-        "LONGITUDE": "-87.711983",
-        "LATITUDE": "41.932041",
+        "start_lng": "-87.711983",
+        "start_lat": "41.932041",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "56641.0",
-        "HeatValue": "0.053491475418815555"
+        "heat": "0.053491475418815555"
     },
     {
         "Stop_ID": "11119",
         "CTA Stop Name": "Kimball & Bryn Mawr",
         "Routes": "82",
-        "LONGITUDE": "-87.713809",
-        "LATITUDE": "41.983084",
+        "start_lng": "-87.713809",
+        "start_lat": "41.983084",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "83624.83333333333",
-        "HeatValue": "0.07897487185347271"
+        "heat": "0.07897487185347271"
     },
     {
         "Stop_ID": "11143",
         "CTA Stop Name": "Kimball & Diversey/Milwaukee",
         "Routes": "82",
-        "LONGITUDE": "-87.712397",
-        "LATITUDE": "41.932291",
+        "start_lng": "-87.712397",
+        "start_lat": "41.932291",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "83624.83333333333",
-        "HeatValue": "0.07897487185347271"
+        "heat": "0.07897487185347271"
     },
     {
         "Stop_ID": "11307",
         "CTA Stop Name": "Montrose & Neenah",
         "Routes": "78",
-        "LONGITUDE": "-87.790587",
-        "LATITUDE": "41.960029",
+        "start_lng": "-87.790587",
+        "start_lat": "41.960029",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "60544.25",
-        "HeatValue": "0.057177685080164964"
+        "heat": "0.057177685080164964"
     },
     {
         "Stop_ID": "11554",
         "CTA Stop Name": "Central & North Ave",
         "Routes": "85",
-        "LONGITUDE": "-87.765799",
-        "LATITUDE": "41.909516",
+        "start_lng": "-87.765799",
+        "start_lat": "41.909516",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "81479.75",
-        "HeatValue": "0.07694906594615626"
+        "heat": "0.07694906594615626"
     },
     {
         "Stop_ID": "14495",
         "CTA Stop Name": "Halsted & 69th Street",
         "Routes": "8",
-        "LONGITUDE": "-87.644422",
-        "LATITUDE": "41.769028",
+        "start_lng": "-87.644422",
+        "start_lat": "41.769028",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "262913.0",
-        "HeatValue": "0.2482937143904072"
+        "heat": "0.2482937143904072"
     },
     {
         "Stop_ID": "14573",
         "CTA Stop Name": "Cottage Grove & 71st Street/South Chicago",
         "Routes": "4",
-        "LONGITUDE": "-87.60547",
-        "LATITUDE": "41.766173",
+        "start_lng": "-87.60547",
+        "start_lat": "41.766173",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25022.46153846154",
-        "HeatValue": "0.02363108677994515"
+        "heat": "0.02363108677994515"
     },
     {
         "Stop_ID": "14574",
         "CTA Stop Name": "Cottage Grove & 47th Street",
         "Routes": "4",
-        "LONGITUDE": "-87.606462",
-        "LATITUDE": "41.809748",
+        "start_lng": "-87.606462",
+        "start_lat": "41.809748",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25022.46153846154",
-        "HeatValue": "0.02363108677994515"
+        "heat": "0.02363108677994515"
     },
     {
         "Stop_ID": "14576",
         "CTA Stop Name": "Western & 63rd Street",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.683783",
-        "LATITUDE": "41.779029",
+        "start_lng": "-87.683783",
+        "start_lat": "41.779029",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "14760",
         "CTA Stop Name": "Michigan & 16th Street",
         "Routes": "1,3,4,12",
-        "LONGITUDE": "-87.62388",
-        "LATITUDE": "41.860502",
+        "start_lng": "-87.62388",
+        "start_lat": "41.860502",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "92555.64285714286",
-        "HeatValue": "0.0874090834336528"
+        "heat": "0.0874090834336528"
     },
     {
         "Stop_ID": "14778",
         "CTA Stop Name": "87th Street & Racine",
         "Routes": "24,87",
-        "LONGITUDE": "-87.653046",
-        "LATITUDE": "41.735844",
+        "start_lng": "-87.653046",
+        "start_lat": "41.735844",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "69141.0",
-        "HeatValue": "0.06529641252683262"
+        "heat": "0.06529641252683262"
     },
     {
         "Stop_ID": "14816",
         "CTA Stop Name": "Kedzie & 63rd Street",
         "Routes": "52,52A",
-        "LONGITUDE": "-87.70305",
-        "LATITUDE": "41.77914",
+        "start_lng": "-87.70305",
+        "start_lat": "41.77914",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "244770.75",
-        "HeatValue": "0.23116026477057341"
+        "heat": "0.23116026477057341"
     },
     {
         "Stop_ID": "14855",
         "CTA Stop Name": "63rd Street & California",
         "Routes": "63",
-        "LONGITUDE": "-87.693167",
-        "LATITUDE": "41.779044",
+        "start_lng": "-87.693167",
+        "start_lat": "41.779044",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "71582.25",
-        "HeatValue": "0.06760191674402835"
+        "heat": "0.06760191674402835"
     },
     {
         "Stop_ID": "14964",
         "CTA Stop Name": "Western & Irving Park",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.688588",
-        "LATITUDE": "41.953731",
+        "start_lng": "-87.688588",
+        "start_lat": "41.953731",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "15012",
         "CTA Stop Name": "Laramie & North Ave",
         "Routes": "57",
-        "LONGITUDE": "-87.755988",
-        "LATITUDE": "41.909107",
+        "start_lng": "-87.755988",
+        "start_lat": "41.909107",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34698.0",
-        "HeatValue": "0.03276861662191809"
+        "heat": "0.03276861662191809"
     },
     {
         "Stop_ID": "15391",
         "CTA Stop Name": "67th Street & Oglesby",
         "Routes": "6,26,67",
-        "LONGITUDE": "-87.568204",
-        "LATITUDE": "41.773596",
+        "start_lng": "-87.568204",
+        "start_lat": "41.773596",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "66171.72727272726",
-        "HeatValue": "0.06249224630267223"
+        "heat": "0.06249224630267223"
     },
     {
         "Stop_ID": "15897",
         "CTA Stop Name": "Monroe & Wabash",
         "Routes": "J14",
-        "LONGITUDE": "-87.62592",
-        "LATITUDE": "41.880743",
+        "start_lng": "-87.62592",
+        "start_lat": "41.880743",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "7033.285714285715",
-        "HeatValue": "0.006642199641588619"
+        "heat": "0.006642199641588619"
     },
     {
         "Stop_ID": "15959",
         "CTA Stop Name": "Irving Park & Harlem",
         "Routes": "80",
-        "LONGITUDE": "-87.806868",
-        "LATITUDE": "41.95269",
+        "start_lng": "-87.806868",
+        "start_lat": "41.95269",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "33498.1",
-        "HeatValue": "0.03163543709904531"
+        "heat": "0.03163543709904531"
     },
     {
         "Stop_ID": "17363",
         "CTA Stop Name": "King Drive & 79th Street",
         "Routes": "3",
-        "LONGITUDE": "-87.615039",
-        "LATITUDE": "41.750921",
+        "start_lng": "-87.615039",
+        "start_lat": "41.750921",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17138.5",
-        "HeatValue": "0.016185513170060034"
+        "heat": "0.016185513170060034"
     },
     {
         "Stop_ID": "17404",
         "CTA Stop Name": "Western & North Ave",
         "Routes": "49,X49",
-        "LONGITUDE": "-87.687097",
-        "LATITUDE": "41.910477",
+        "start_lng": "-87.687097",
+        "start_lat": "41.910477",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "34511.33747412008",
-        "HeatValue": "0.032592333471643205"
+        "heat": "0.032592333471643205"
     },
     {
         "Stop_ID": "17967",
         "CTA Stop Name": "Cottage Grove & 67th Street",
         "Routes": "4",
-        "LONGITUDE": "-87.605894",
-        "LATITUDE": "41.772906",
+        "start_lng": "-87.605894",
+        "start_lat": "41.772906",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "25022.46153846154",
-        "HeatValue": "0.02363108677994515"
+        "heat": "0.02363108677994515"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "23464.0",
-        "HeatValue": "0.022159283544200988"
+        "heat": "0.022159283544200988"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1401",
         "CTA Stop Name": "Lincoln & Webster",
         "Routes": "37",
-        "LONGITUDE": "-87.644098",
-        "LATITUDE": "41.92201",
+        "start_lng": "-87.644098",
+        "start_lat": "41.92201",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "14681.5",
-        "HeatValue": "0.013865134732108202"
+        "heat": "0.013865134732108202"
     },
     {
         "Stop_ID": "1662",
         "CTA Stop Name": "Western Brown Line Station",
         "Routes": "49B",
-        "LONGITUDE": "-87.688561",
-        "LATITUDE": "41.966111",
+        "start_lng": "-87.688561",
+        "start_lat": "41.966111",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "45874.333333333336",
-        "HeatValue": "0.043323489589776866"
+        "heat": "0.043323489589776866"
     },
     {
         "Stop_ID": "3041",
         "CTA Stop Name": "Kedzie-Homan Blue Line Station",
         "Routes": "52",
-        "LONGITUDE": "-87.706017",
-        "LATITUDE": "41.874251",
+        "start_lng": "-87.706017",
+        "start_lat": "41.874251",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "80110.75",
-        "HeatValue": "0.07565618923408624"
+        "heat": "0.07565618923408624"
     },
     {
         "Stop_ID": "3245",
         "CTA Stop Name": "Ashland/63rd Green Line Station",
         "Routes": "63",
-        "LONGITUDE": "-87.663683",
-        "LATITUDE": "41.778812",
+        "start_lng": "-87.663683",
+        "start_lat": "41.778812",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "71582.25",
-        "HeatValue": "0.06760191674402835"
+        "heat": "0.06760191674402835"
     },
     {
         "Stop_ID": "3437",
         "CTA Stop Name": "63rd Street & King Drive (Green Line)",
         "Routes": "63",
-        "LONGITUDE": "-87.615717",
-        "LATITUDE": "41.780176",
+        "start_lng": "-87.615717",
+        "start_lat": "41.780176",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "71582.25",
-        "HeatValue": "0.06760191674402835"
+        "heat": "0.06760191674402835"
     },
     {
         "Stop_ID": "3746",
         "CTA Stop Name": "Lawrence & Kimball (Brown Line)",
         "Routes": "81",
-        "LONGITUDE": "-87.713049",
-        "LATITUDE": "41.968331",
+        "start_lng": "-87.713049",
+        "start_lat": "41.968331",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "105364.75",
-        "HeatValue": "0.09950593977215527"
+        "heat": "0.09950593977215527"
     },
     {
         "Stop_ID": "3770",
         "CTA Stop Name": "Lawrence Red Line Station",
         "Routes": "81",
-        "LONGITUDE": "-87.658604",
-        "LATITUDE": "41.968986",
+        "start_lng": "-87.658604",
+        "start_lat": "41.968986",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "105364.75",
-        "HeatValue": "0.09950593977215527"
+        "heat": "0.09950593977215527"
     },
     {
         "Stop_ID": "3780",
         "CTA Stop Name": "Lawrence Red Line Station",
         "Routes": "81",
-        "LONGITUDE": "-87.658611",
-        "LATITUDE": "41.969096",
+        "start_lng": "-87.658611",
+        "start_lat": "41.969096",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "105364.75",
-        "HeatValue": "0.09950593977215527"
+        "heat": "0.09950593977215527"
     },
     {
         "Stop_ID": "3804",
         "CTA Stop Name": "Lawrence & Kimball (Brown Line)",
         "Routes": "81",
-        "LONGITUDE": "-87.713198",
-        "LATITUDE": "41.968483",
+        "start_lng": "-87.713198",
+        "start_lat": "41.968483",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "105364.75",
-        "HeatValue": "0.09950593977215527"
+        "heat": "0.09950593977215527"
     },
     {
         "Stop_ID": "4076",
         "CTA Stop Name": "Armitage & Sheffield (Brown & Purple Lines)",
         "Routes": "73",
-        "LONGITUDE": "-87.653155",
-        "LATITUDE": "41.91802",
+        "start_lng": "-87.653155",
+        "start_lat": "41.91802",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "131200.0",
-        "HeatValue": "0.1239046198857471"
+        "heat": "0.1239046198857471"
     },
     {
         "Stop_ID": "4212",
         "CTA Stop Name": "California & Lake (Green Line)",
         "Routes": "94",
-        "LONGITUDE": "-87.696308",
-        "LATITUDE": "41.884107",
+        "start_lng": "-87.696308",
+        "start_lat": "41.884107",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36055.57142857143",
-        "HeatValue": "0.03405070024863221"
+        "heat": "0.03405070024863221"
     },
     {
         "Stop_ID": "5637",
         "CTA Stop Name": "Irving Park Blue Line Station",
         "Routes": "80",
-        "LONGITUDE": "-87.730143",
-        "LATITUDE": "41.95353",
+        "start_lng": "-87.730143",
+        "start_lat": "41.95353",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "33498.1",
-        "HeatValue": "0.03163543709904531"
+        "heat": "0.03163543709904531"
     },
     {
         "Stop_ID": "5662",
         "CTA Stop Name": "Irving Park Brown Line Station",
         "Routes": "80",
-        "LONGITUDE": "-87.674866",
-        "LATITUDE": "41.954103",
+        "start_lng": "-87.674866",
+        "start_lat": "41.954103",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "33498.1",
-        "HeatValue": "0.03163543709904531"
+        "heat": "0.03163543709904531"
     },
     {
         "Stop_ID": "6597",
         "CTA Stop Name": "Fullerton & Sheffield (Red/Brown/Purple Line)",
         "Routes": "37,74",
-        "LONGITUDE": "-87.652623",
-        "LATITUDE": "41.925321",
+        "start_lng": "-87.652623",
+        "start_lat": "41.925321",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "139495.0",
-        "HeatValue": "0.13173837615062722"
+        "heat": "0.13173837615062722"
     },
     {
         "Stop_ID": "6691",
         "CTA Stop Name": "Polk Pink Line Station",
         "Routes": "7,157",
-        "LONGITUDE": "-87.669706",
-        "LATITUDE": "41.871522",
+        "start_lng": "-87.669706",
+        "start_lat": "41.871522",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "14545.52840909091",
-        "HeatValue": "0.013736723845775494"
+        "heat": "0.013736723845775494"
     },
     {
         "Stop_ID": "7635",
         "CTA Stop Name": "35th Street & State (Green Line)",
         "Routes": "35",
-        "LONGITUDE": "-87.625936",
-        "LATITUDE": "41.831183",
+        "start_lng": "-87.625936",
+        "start_lat": "41.831183",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "53320.333333333336",
-        "HeatValue": "0.05035545452628047"
+        "heat": "0.05035545452628047"
     },
     {
         "Stop_ID": "7638",
         "CTA Stop Name": "Sox-35th Red Line Station",
         "Routes": "35,39",
-        "LONGITUDE": "-87.630548",
-        "LATITUDE": "41.83103",
+        "start_lng": "-87.630548",
+        "start_lat": "41.83103",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "100528.33333333334",
-        "HeatValue": "0.09493845220590204"
+        "heat": "0.09493845220590204"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "88834.5",
-        "HeatValue": "0.08389485484177135"
+        "heat": "0.08389485484177135"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7858",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712183",
-        "LATITUDE": "41.939209",
+        "start_lng": "-87.712183",
+        "start_lat": "41.939209",
         "Month_Beginning": "2019-06-01 00:00:00",
         "MonthTotal": "84383.16666666667",
-        "HeatValue": "0.07969103803802575"
+        "heat": "0.07969103803802575"
     },
     {
         "Stop_ID": "7947",
         "CTA Stop Name": "Belmont & Kimball (Blue Line)",
         "Routes": "77",
-        "LONGITUDE": "-87.712196",
-        "LATITUDE": "41.939041",
+        "start_lng": "-87.712196",
+        "start_lat": "41.939041",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "88834.5",
-        "HeatValue": "0.08389485484177135"
+        "heat": "0.08389485484177135"
     },
     {
         "Stop_ID": "8399",
         "CTA Stop Name": "Western & Milwaukee (Blue Line)",
         "Routes": "49",
-        "LONGITUDE": "-87.687238",
-        "LATITUDE": "41.916528",
+        "start_lng": "-87.687238",
+        "start_lat": "41.916528",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "28682.956521739132",
-        "HeatValue": "0.027088039824889464"
+        "heat": "0.027088039824889464"
     },
     {
         "Stop_ID": "8994",
         "CTA Stop Name": "Irving Park Blue Line Station",
         "Routes": "53",
-        "LONGITUDE": "-87.727739",
-        "LATITUDE": "41.951946",
+        "start_lng": "-87.727739",
+        "start_lat": "41.951946",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "138463.75",
-        "HeatValue": "0.1307644688392158"
+        "heat": "0.1307644688392158"
     },
     {
         "Stop_ID": "9039",
         "CTA Stop Name": "Pulaski Blue Line Station",
         "Routes": "53",
-        "LONGITUDE": "-87.725531",
-        "LATITUDE": "41.873832",
+        "start_lng": "-87.725531",
+        "start_lat": "41.873832",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "138463.75",
-        "HeatValue": "0.1307644688392158"
+        "heat": "0.1307644688392158"
     },
     {
         "Stop_ID": "9408",
         "CTA Stop Name": "87th Red Line Station",
         "Routes": "87",
-        "LONGITUDE": "-87.624829",
-        "LATITUDE": "41.736161",
+        "start_lng": "-87.624829",
+        "start_lat": "41.736161",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "57613.42857142857",
-        "HeatValue": "0.05440983206903581"
+        "heat": "0.05440983206903581"
     },
     {
         "Stop_ID": "9612",
         "CTA Stop Name": "Austin Blue Line Station",
         "Routes": "91",
-        "LONGITUDE": "-87.774366",
-        "LATITUDE": "41.871102",
+        "start_lng": "-87.774366",
+        "start_lat": "41.871102",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "94476.0",
-        "HeatValue": "0.08922265905736161"
+        "heat": "0.08922265905736161"
     },
     {
         "Stop_ID": "9620",
         "CTA Stop Name": "Austin & Railroad Ave (Blue Line)",
         "Routes": "91",
-        "LONGITUDE": "-87.774232",
-        "LATITUDE": "41.870322",
+        "start_lng": "-87.774232",
+        "start_lat": "41.870322",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "94476.0",
-        "HeatValue": "0.08922265905736161"
+        "heat": "0.08922265905736161"
     },
     {
         "Stop_ID": "10178",
         "CTA Stop Name": "69th Red Line Station",
         "Routes": "N5,67",
-        "LONGITUDE": "-87.626013",
-        "LATITUDE": "41.769099",
+        "start_lng": "-87.626013",
+        "start_lat": "41.769099",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "46126.5",
-        "HeatValue": "0.043561634521035925"
+        "heat": "0.043561634521035925"
     },
     {
         "Stop_ID": "10252",
         "CTA Stop Name": "Cicero Blue Line Station",
         "Routes": "54",
-        "LONGITUDE": "-87.745063",
-        "LATITUDE": "41.871614",
+        "start_lng": "-87.745063",
+        "start_lat": "41.871614",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "70167.4",
-        "HeatValue": "0.06626573952264611"
+        "heat": "0.06626573952264611"
     },
     {
         "Stop_ID": "10548",
         "CTA Stop Name": "Garfield Green Line Station",
         "Routes": "55",
-        "LONGITUDE": "-87.618326",
-        "LATITUDE": "41.794388",
+        "start_lng": "-87.618326",
+        "start_lat": "41.794388",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "32424.545454545456",
-        "HeatValue": "0.030621577587755973"
+        "heat": "0.030621577587755973"
     },
     {
         "Stop_ID": "10589",
         "CTA Stop Name": "Garfield Red Line Station",
         "Routes": "55,59",
-        "LONGITUDE": "-87.6311",
-        "LATITUDE": "41.794585",
+        "start_lng": "-87.6311",
+        "start_lat": "41.794585",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "127130.54545454546",
-        "HeatValue": "0.12006144748790509"
+        "heat": "0.12006144748790509"
     },
     {
         "Stop_ID": "11005",
         "CTA Stop Name": "Logan Square Blue Line Station",
         "Routes": "76",
-        "LONGITUDE": "-87.707798",
-        "LATITUDE": "41.92989",
+        "start_lng": "-87.707798",
+        "start_lat": "41.92989",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "56641.0",
-        "HeatValue": "0.053491475418815555"
+        "heat": "0.053491475418815555"
     },
     {
         "Stop_ID": "11044",
         "CTA Stop Name": "Diversey Brown Line Station",
         "Routes": "76",
-        "LONGITUDE": "-87.652961",
-        "LATITUDE": "41.932714",
+        "start_lng": "-87.652961",
+        "start_lat": "41.932714",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "56641.0",
-        "HeatValue": "0.053491475418815555"
+        "heat": "0.053491475418815555"
     },
     {
         "Stop_ID": "11271",
         "CTA Stop Name": "Kimball & Belmont (Blue Line)",
         "Routes": "82",
-        "LONGITUDE": "-87.712383",
-        "LATITUDE": "41.93917",
+        "start_lng": "-87.712383",
+        "start_lat": "41.93917",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "83624.83333333333",
-        "HeatValue": "0.07897487185347271"
+        "heat": "0.07897487185347271"
     },
     {
         "Stop_ID": "11326",
         "CTA Stop Name": "Montrose Blue Line Station",
         "Routes": "78",
-        "LONGITUDE": "-87.743552",
-        "LATITUDE": "41.960706",
+        "start_lng": "-87.743552",
+        "start_lat": "41.960706",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "60544.25",
-        "HeatValue": "0.057177685080164964"
+        "heat": "0.057177685080164964"
     },
     {
         "Stop_ID": "11373",
         "CTA Stop Name": "Montrose Brown Line Station",
         "Routes": "78",
-        "LONGITUDE": "-87.675155",
-        "LATITUDE": "41.961558",
+        "start_lng": "-87.675155",
+        "start_lat": "41.961558",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "60544.25",
-        "HeatValue": "0.057177685080164964"
+        "heat": "0.057177685080164964"
     },
     {
         "Stop_ID": "12533",
         "CTA Stop Name": "Addison Brown Line Station",
         "Routes": "152",
-        "LONGITUDE": "-87.674648",
-        "LATITUDE": "41.946842",
+        "start_lng": "-87.674648",
+        "start_lat": "41.946842",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "52069.2",
-        "HeatValue": "0.04917389050118096"
+        "heat": "0.04917389050118096"
     },
     {
         "Stop_ID": "12554",
         "CTA Stop Name": "Addison Red Line Station",
         "Routes": "152",
-        "LONGITUDE": "-87.653611",
-        "LATITUDE": "41.947299",
+        "start_lng": "-87.653611",
+        "start_lat": "41.947299",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "52069.2",
-        "HeatValue": "0.04917389050118096"
+        "heat": "0.04917389050118096"
     },
     {
         "Stop_ID": "12639",
         "CTA Stop Name": "Central Street & Girard (Purple Line)",
         "Routes": "201",
-        "LONGITUDE": "-87.685817",
-        "LATITUDE": "42.064163",
+        "start_lng": "-87.685817",
+        "start_lat": "42.064163",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36177.0",
-        "HeatValue": "0.034165376780538666"
+        "heat": "0.034165376780538666"
     },
     {
         "Stop_ID": "14011",
         "CTA Stop Name": "95th Red Line Station",
         "Routes": "34,119",
-        "LONGITUDE": "-87.624764",
-        "LATITUDE": "41.722299",
+        "start_lng": "-87.624764",
+        "start_lat": "41.722299",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "87867.25",
-        "HeatValue": "0.08298138880835298"
+        "heat": "0.08298138880835298"
     },
     {
         "Stop_ID": "14067",
         "CTA Stop Name": "18th Street & Paulina (Pink Line)",
         "Routes": "18",
-        "LONGITUDE": "-87.669097",
-        "LATITUDE": "41.85781",
+        "start_lng": "-87.669097",
+        "start_lat": "41.85781",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "9544.75",
-        "HeatValue": "0.00901401387693967"
+        "heat": "0.00901401387693967"
     },
     {
         "Stop_ID": "14126",
         "CTA Stop Name": "Kedzie Orange Line Station",
         "Routes": "51",
-        "LONGITUDE": "-87.704456",
-        "LATITUDE": "41.804866",
+        "start_lng": "-87.704456",
+        "start_lat": "41.804866",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "124431.0",
-        "HeatValue": "0.1175120103430137"
+        "heat": "0.1175120103430137"
     },
     {
         "Stop_ID": "14132",
         "CTA Stop Name": "Western Orange Line Station",
         "Routes": "48,49,X49",
-        "LONGITUDE": "-87.684005",
-        "LATITUDE": "41.80496",
+        "start_lng": "-87.684005",
+        "start_lat": "41.80496",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "52458.33747412009",
-        "HeatValue": "0.04954138997384979"
+        "heat": "0.04954138997384979"
     },
     {
         "Stop_ID": "14137",
         "CTA Stop Name": "Halsted Orange Line Station",
         "Routes": "62",
-        "LONGITUDE": "-87.647977",
-        "LATITUDE": "41.84674",
+        "start_lng": "-87.647977",
+        "start_lat": "41.84674",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "21623.61111111111",
-        "HeatValue": "0.02042122953719085"
+        "heat": "0.02042122953719085"
     },
     {
         "Stop_ID": "14139",
         "CTA Stop Name": "69th Red Line Station",
         "Routes": "N5,30,67",
-        "LONGITUDE": "-87.625853",
-        "LATITUDE": "41.76882",
+        "start_lng": "-87.625853",
+        "start_lat": "41.76882",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "68056.0",
-        "HeatValue": "0.06427174398585674"
+        "heat": "0.06427174398585674"
     },
     {
         "Stop_ID": "14143",
         "CTA Stop Name": "Cumberland Blue Line Station",
         "Routes": "81W",
-        "LONGITUDE": "-87.839028",
-        "LATITUDE": "41.98368",
+        "start_lng": "-87.839028",
+        "start_lat": "41.98368",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "36703.0",
-        "HeatValue": "0.034662128534044025"
+        "heat": "0.034662128534044025"
     },
     {
         "Stop_ID": "14145",
         "CTA Stop Name": "Harlem Blue Line Station",
         "Routes": "90",
-        "LONGITUDE": "-87.808408",
-        "LATITUDE": "41.981962",
+        "start_lng": "-87.808408",
+        "start_lat": "41.981962",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "51408.5",
-        "HeatValue": "0.048549928745399616"
+        "heat": "0.048549928745399616"
     },
     {
         "Stop_ID": "14409",
         "CTA Stop Name": "Davis Purple Line Station",
         "Routes": "93",
-        "LONGITUDE": "-87.683473",
-        "LATITUDE": "42.047775",
+        "start_lng": "-87.683473",
+        "start_lat": "42.047775",
         "Month_Beginning": "2001-06-01 00:00:00",
         "MonthTotal": "17456.666666666668",
-        "HeatValue": "0.01648598816924943"
+        "heat": "0.01648598816924943"
     }
 ]
