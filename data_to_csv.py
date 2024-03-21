@@ -36,7 +36,12 @@ bus_route_info_file = "cta/cta-system-information-bus-stop-locations-in-digital-
 #         if df_chunk.shape[0] != 0:
 #             df = pd.concat([df, df_chunk], ignore_index=True, axis=1)
 #             df_chunk=pd.DataFrame()       
-        
+def convert_time(input_time):
+    input_format = '%Y-%m-%dT%H:%M:%S.%f'
+    parsed_time = datetime.strptime(input_time, input_format)
+    output_format = '%Y-%m-%d %H:%M:%S'
+    converted_time = parsed_time.strftime(output_format)
+    return converted_time
    
 bus_stop_data = pd.read_csv(bus_route_info_file)
 routes_list = bus_stop_data['Routes'].str.split(',')
@@ -60,7 +65,8 @@ for _, row in bus_rides_data.iterrows():
     else:
         monthly_counts[month_beginning] = {route_id: month_total / route_counts_dict.get(route_id, 1)}
 
-headers= ['Stop_ID','CTA Stop Name','Routes','LONGITUDE','LATITUDE','Month_Beginning','MonthTotal']
+headers= ['Stop_ID','CTA Stop Name','Routes','LONGITUDE','LATITUDE','Month_Beginning','MonthTotal','HeatValue']
+max_value = bus_rides_data["MonthTotal"].astype(int).max()
 df=pd.DataFrame(columns=headers)
 df_chunk=pd.DataFrame()
 for i, row in bus_stop_data.iterrows():
@@ -75,20 +81,22 @@ for i, row in bus_stop_data.iterrows():
                                 'Routes': [row['Routes']],
                                 'LONGITUDE': [row['LONGITUDE']],
                                 'LATITUDE': [row['LATITUDE']],
-                                'Month_Beginning': [month_beginning], 
-                                'MonthTotal': [monthly_stop_count]})
+                                'Month_Beginning': [convert_time(month_beginning)], 
+                                'MonthTotal': [monthly_stop_count],
+                                'HeatValue': [monthly_stop_count/max_value]})
         
         # chunking to reduce large concats
-        if i % 10 == 0:  
-            df = pd.concat([df, df_chunk], ignore_index=True, axis=0)
-            df_chunk=pd.DataFrame()
-            #print(df.head())
-        else:
-            df_chunk = pd.concat([df_chunk, new_row], ignore_index=True, axis=0)
+        if "2001" in month_beginning:
+            if i % 10 == 0:  
+                df = pd.concat([df, df_chunk], ignore_index=True, axis=0)
+                df_chunk=pd.DataFrame()
+                #print(df.head())
+            else:
+                df_chunk = pd.concat([df_chunk, new_row], ignore_index=True, axis=0)
 
 if df_chunk.shape[0] != 0:
     df = pd.concat([df, df_chunk], ignore_index=True, axis=1)
     df_chunk=pd.DataFrame()
 
-df.to_csv('monthly_stop_data.csv', index=False)
+df.to_csv('monthly_stop_data.csv', index=False, mode='a',)
                     
